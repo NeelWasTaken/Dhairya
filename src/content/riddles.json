@@ -1,0 +1,91 @@
+{
+  "riddles": [
+    {
+      "id": 1,
+      "doorName": "The First Door of Discernment",
+      "sanskritDoor": "विवेक द्वार",
+      "chamberPrompt": "Yama tests the boy's resolve: 'Two paths present themselves to every human being: Śreyas (the good) and Preyas (the pleasant). By what mark does the resolute mind choose?'",
+      "verseSource": "Kaṭha Upaniṣad 1.2.1 – 1.2.2",
+      "options": [
+        {
+          "text": "The wise inspect both; they choose Śreyas over Preyas because it leads to enduring freedom, whereas the foolish cling to momentary gratification.",
+          "isCorrect": true,
+          "explanation": "Correct. Kaṭha 1.2.2 states: 'tayor śreya ādadānasya sādhu bhavati, hīyate 'rthād ya u preyo vṛṇīte.' He who chooses the good fares well; he who chooses the pleasant misses the true goal."
+        },
+        {
+          "text": "The wise avoid all choices entirely and retreat into passive indifference.",
+          "isCorrect": false,
+          "explanation": "Kaṭha rejects numbness: discernment requires active, conscious examination of both paths."
+        },
+        {
+          "text": "The wise accumulate vast wealth and power first, seeking spiritual wisdom only at the end of life.",
+          "isCorrect": false,
+          "explanation": "Nachiketa explicitly rejected Yama's offer of gold, herds, and kingdoms, calling them 'ephemeral destroyers of the vigor of the senses' (1.1.26)."
+        },
+        {
+          "text": "The pleasant and the good are identical, so any sensory pleasure leads naturally to liberation.",
+          "isCorrect": false,
+          "explanation": "Kaṭha 1.2.1 declares that the two paths bind to completely divergent ends."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "doorName": "The Second Door of the Chariot",
+      "sanskritDoor": "सारथि द्वार",
+      "chamberPrompt": "Yama gestures to the carriage: 'Know the Self as the passenger sitting within the chariot. Who is the charioteer holding the reins, and what happens when the reins are slack?'",
+      "verseSource": "Kaṭha Upaniṣad 1.3.3 – 1.3.5",
+      "options": [
+        {
+          "text": "The intellect (buddhi) is the charioteer and the mind (manas) is the reins. With undisciplined mind, the sense-horses bolt like wild beasts.",
+          "isCorrect": true,
+          "explanation": "Correct. Kaṭha 1.3.3-4: 'buddhiṃ tu sārathiṃ viddhi, manaḥ pragraham eva ca.' The intellect must guide the reins of attention."
+        },
+        {
+          "text": "The senses are the charioteer, and they should be given complete freedom to steer the body wherever desires wander.",
+          "isCorrect": false,
+          "explanation": "If the senses lead, Kaṭha 1.3.5 warns that the chariot crashes off the road of life."
+        },
+        {
+          "text": "The body itself is the charioteer, and physical strength alone guarantees safe passage.",
+          "isCorrect": false,
+          "explanation": "The body is merely the carriage (śarīraṃ ratham eva tu); it requires cognitive governance."
+        },
+        {
+          "text": "The horses must be destroyed and starved so the carriage cannot move at all.",
+          "isCorrect": false,
+          "explanation": "The Upanishads do not advocate mortification of the senses, but their intelligent mastery."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "doorName": "The Third Door of the Unborn Ground",
+      "sanskritDoor": "अमृत द्वार",
+      "chamberPrompt": "Yama reveals the supreme mystery: 'When the physical frame collapses at death, what happens to the conscious witness within?'",
+      "verseSource": "Kaṭha Upaniṣad 1.2.18",
+      "options": [
+        {
+          "text": "The knowing Self is never born and never dies; it sprang from nothing and nothing sprang from it. Unborn, eternal, and ancient, it is not slain when the body is slain.",
+          "isCorrect": true,
+          "explanation": "Correct. Kaṭha 1.2.18: 'na jāyate mriyate vā vipaścin... na hanyate hanyamāne śarīre.' That unshakeable ground is the root of Upanishadic resilience."
+        },
+        {
+          "text": "Consciousness is extinguished completely into permanent nothingness.",
+          "isCorrect": false,
+          "explanation": "Yama demonstrates that pure consciousness is the ground of existence, not a temporary biological byproduct."
+        },
+        {
+          "text": "The Self reincarnates immediately into whatever material possessions it owned during life.",
+          "isCorrect": false,
+          "explanation": "Material possessions do not migrate; only mental impressions (saṃskāras) continue."
+        },
+        {
+          "text": "The Self becomes a ghost trapped forever at the door of Yama.",
+          "isCorrect": false,
+          "explanation": "The realization of the Self leads to absolute fearlessness and liberation (mokṣa)."
+        }
+      ]
+    }
+  ]
+}

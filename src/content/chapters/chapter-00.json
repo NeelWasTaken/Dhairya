@@ -1,0 +1,62 @@
+{
+  "id": 0,
+  "devanagariNumeral": "०",
+  "title": "Invocation",
+  "subtitle": "Śānti Pāṭha — The Peace Chants That Open the Way",
+  "sanskritTitle": "शान्तिपाठः",
+  "epigraph": "ॐ सह नाववतु। सह नौ भुनक्तु। — May we be protected together. May we be nourished together.",
+  "content": [
+    {
+      "type": "prose",
+      "text": "Every traditional recitation of the Upanishads begins not with argument but with prayer. Before a single philosophical proposition is uttered, teacher and student pause to chant the Śānti Pāṭha — the peace invocation. This is not ornamental. In the Indian pedagogical tradition, the invocation performs a precise function: it creates a shared container of safety, intention, and receptivity. It marks the threshold between ordinary discourse and sacred inquiry."
+    },
+    {
+      "type": "prose",
+      "text": "The Taittirīya Upaniṣad opens with the well-known invocation: 'Saha nāvavatu, saha nau bhunaktu, saha vīryaṃ karavāvahai' — 'May [Brahman] protect us both, may It nourish us both, may we work together with vigour.' The prayer is in the dual number (dvivacana), a grammatical form that binds teacher and student into a single unit of shared endeavour. As the Indologist Patrick Olivelle notes in his translation (1996), these invocations establish the relational frame within which the Upanishadic teaching unfolds. The guru-śiṣya relationship is not hierarchical command but mutual exploration, and the invocation consecrates that mutuality."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "taittiriya-2-0-1"
+    },
+    {
+      "type": "prose",
+      "text": "A second great invocation comes from the Bṛhadāraṇyaka / Īśā tradition: 'Om pūrṇam adaḥ pūrṇam idaṃ, pūrṇāt pūrṇam udacyate; pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate' — 'That is whole; this is whole. From wholeness, wholeness arises. When wholeness is taken from wholeness, wholeness alone remains.' Śaṅkara, in his commentary (Bhāṣya) on the Īśā Upaniṣad, interprets 'pūrṇa' here as the infinite, self-complete nature of Brahman — that which cannot be diminished by any subtraction or division. In terms of resilience, this verse offers a remarkable proposition: the deepest ground of the self is not a resource that depletes. Unlike willpower models in psychology (cf. Baumeister's ego-depletion hypothesis, now debated), the Upanishadic self is posited as inherently whole — pūrṇa — regardless of what is 'taken' from it by circumstance."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "isha-purna"
+    },
+    {
+      "type": "prose",
+      "text": "What do these invocations accomplish psychologically? At minimum, three things. First, they serve as a transition ritual — what the psychologist Arnold van Gennep (1909) called a 'liminal' passage, moving participants from the mundane into a space of heightened attention. Second, they establish collective safety. The repeated use of 'together' (saha) signals that the inquiry ahead, which will confront mortality, fear, and the limits of the self, will be undertaken in companionship. Third, they set an intention of non-hostility: 'mā vidviṣāvahai' — 'May we not be hostile to one another.' Learning about the deepest truths of existence requires vulnerability, and vulnerability requires the absence of threat."
+    },
+    {
+      "type": "prose",
+      "text": "For this project, these invocations set the frame for everything that follows. We approach the Upanishads not as relics but as living dialogues — texts composed in a world of ritual fire and forest hermitages, yet asking questions that modern psychology has only recently begun to formulate in its own idiom. We do so with scholarly care, acknowledging the interpretive traditions that have shaped these texts over two millennia, and with humility about the limits of cross-cultural comparison."
+    },
+    {
+      "type": "resilience_insight",
+      "title": "The Container Before the Content",
+      "text": "Resilience research consistently emphasises the role of felt safety in enabling adaptive coping. Porges's polyvagal theory (2011) proposes that the autonomic nervous system must first detect safety before higher cognitive processes — reflection, meaning-making — become accessible. The Śānti Pāṭha performs an analogous function: by ritually establishing peace and mutual goodwill, it creates the relational safety within which the most challenging questions about suffering, death, and identity can be explored without overwhelm."
+    },
+    {
+      "type": "modern_parallel",
+      "title": "Ritual and Psychological Readiness",
+      "text": "Modern therapeutic practice often begins with grounding exercises — breathing techniques, body scans, or the explicit statement of ground rules. Trauma-informed pedagogy (as articulated by Judith Herman, 1992) insists that safety must precede exploration of painful material. The Upanishadic invocation can be read as an ancient instance of this principle: you do not plunge into existential inquiry without first preparing the ground. This parallel is suggestive, not causal — the Upanishadic ṛṣis were not psychotherapists. But the structural similarity is worth noting."
+    },
+    {
+      "type": "reflect",
+      "prompt": "Before you read further, pause. What would it mean for you to begin an inquiry into your own resilience from a place of 'saha' — togetherness — rather than solitary self-improvement? What kind of safety do you need in order to honestly examine how you face difficulty?"
+    }
+  ],
+  "sources": [
+    "Taittirīya Upaniṣad, Śīkṣā Vallī (invocation)",
+    "Īśā Upaniṣad (Śānti Pāṭha: pūrṇam adaḥ)",
+    "Olivelle, Patrick. Upaniṣads. Oxford University Press, 1996.",
+    "Śaṅkara. Īśā Upaniṣad Bhāṣya.",
+    "Porges, Stephen. The Polyvagal Theory. W.W. Norton, 2011.",
+    "Herman, Judith. Trauma and Recovery. Basic Books, 1992.",
+    "van Gennep, Arnold. The Rites of Passage. 1909."
+  ],
+  "wordCount": 620
+}

@@ -1,0 +1,153 @@
+{
+  "primarySources": [
+    {
+      "author": "Olivelle, Patrick (trans.)",
+      "year": 1998,
+      "title": "The Early Upaniṣads: Annotated Text and Translation",
+      "publisher": "Oxford University Press",
+      "location": "New York / Oxford",
+      "description": "Authoritative contemporary critical edition providing philologically rigorous translations, extensive Sanskrit critical apparatus, and detailed historical introductions for the older prose Upaniṣads."
+    },
+    {
+      "author": "Radhakrishnan, Sarvepalli",
+      "year": 1953,
+      "title": "The Principal Upaniṣads",
+      "publisher": "George Allen & Unwin",
+      "location": "London",
+      "description": "Monumental bilingual edition with Roman transliteration, comprehensive English rendering, and exhaustive philosophical notes drawing cross-cultural parallels between Vedānta and Western metaphysics."
+    },
+    {
+      "author": "Müller, F. Max (trans.)",
+      "year": 1879,
+      "volume": "Vol. 1 (1879) & Vol. 15 (1884)",
+      "title": "The Upaniṣads (Sacred Books of the East)",
+      "publisher": "Clarendon Press / Oxford University Press",
+      "location": "Oxford",
+      "description": "Foundational public-domain translation of the major Upaniṣads in the historic Sacred Books of the East series, providing landmark 19th-century European scholarly engagement with Vedic literature."
+    },
+    {
+      "author": "Gambhirananda, Swami (trans.)",
+      "year": 1957,
+      "title": "Eight Upaniṣads with the Commentary of Śaṅkarācārya",
+      "publisher": "Advaita Ashrama",
+      "location": "Kolkata",
+      "description": "Standard English rendering of Śaṅkara's authoritative Sanskrit commentaries (Bhāṣyas) on Īśā, Kena, Kaṭha, Taittirīya, Aitareya, Muṇḍaka, Māṇḍūkya, and Praśna Upaniṣads."
+    },
+    {
+      "author": "Madhavananda, Swami (trans.)",
+      "year": 1934,
+      "title": "The Bṛhadāraṇyaka Upaniṣad with the Commentary of Śaṅkarācārya",
+      "publisher": "Advaita Ashrama",
+      "location": "Kolkata",
+      "description": "Complete, scholarly English translation of the immense Bṛhadāraṇyaka Upaniṣad along with Śaṅkara's extensive philosophical commentary."
+    },
+    {
+      "author": "Easwaran, Eknath",
+      "year": 1987,
+      "title": "The Upanishads: A Classic Translation",
+      "publisher": "Nilgiri Press",
+      "location": "Tomales, California",
+      "description": "Lyrical, accessible rendering prioritizing contemplative clarity and psychological resonance for general contemporary readers."
+    }
+  ],
+  "indianPsychology": [
+    {
+      "author": "Rao, K. Ramakrishna & Paranjpe, Anand C.",
+      "year": 2016,
+      "title": "Psychology in the Indian Tradition",
+      "publisher": "Springer",
+      "location": "New Delhi / New York",
+      "description": "Comprehensive academic textbook mapping classical Indian epistemological, cognitive, emotional, and transcendent models to contemporary psychological constructs."
+    },
+    {
+      "author": "Paranjpe, Anand C.",
+      "year": 1998,
+      "title": "Self and Identity in Modern Psychology and Indian Thought",
+      "publisher": "Plenum Press",
+      "location": "New York",
+      "description": "Groundbreaking comparative study contrasting Western theories of ego development (Erikson, Rogers) with Advaitic and Yogic models of consciousness and identity."
+    },
+    {
+      "author": "Swami Akhilananda",
+      "year": 1948,
+      "title": "Hindu Psychology: Its Meaning for the West",
+      "publisher": "Routledge",
+      "location": "London",
+      "description": "Pioneering early 20th-century treatise presenting classical Vedāntic mental training, emotion regulation, and meditation to Western clinical psychology audiences."
+    },
+    {
+      "author": "Swami Rama, Ballentine, Rudolph & Swami Ajaya",
+      "year": 1976,
+      "title": "Yoga and Psychotherapy: The Evolution of Consciousness",
+      "publisher": "Himalayan Institute",
+      "location": "Honesdale, PA",
+      "description": "Synthesis of classical Indian kosha models with Western psychodynamic, behavioral, humanistic, and transpersonal therapeutic paradigms."
+    },
+    {
+      "author": "Deussen, Paul",
+      "year": 1906,
+      "title": "The Philosophy of the Upanishads",
+      "publisher": "T&T Clark",
+      "location": "Edinburgh",
+      "description": "Masterwork of 19th-century German Indology systematizing the theology, cosmology, and psychology of the Vedic texts."
+    },
+    {
+      "author": "Cohen, Signe (ed.)",
+      "year": 2018,
+      "title": "The Upaniṣads: A Complete Guide",
+      "publisher": "Routledge",
+      "location": "London / New York",
+      "description": "Comprehensive contemporary reference volume featuring chapters on historical context, philosophy, ritual, gender, and reception history by leading global scholars."
+    }
+  ],
+  "modernResilience": [
+    {
+      "author": "Masten, Ann S.",
+      "year": 2001,
+      "title": "Ordinary Magic: Resilience Processes in Development",
+      "journal": "American Psychologist",
+      "volume": "56(3), 227–238",
+      "description": "Seminal paper demonstrating that human resilience is not a rare superhuman anomaly, but arises from ordinary, normative adaptive human protective systems."
+    },
+    {
+      "author": "Bonanno, George A.",
+      "year": 2004,
+      "title": "Loss, Trauma, and Human Resilience: Have We Underestimated the Human Capacity to Thrive?",
+      "journal": "American Psychologist",
+      "volume": "59(1), 20–28",
+      "description": "Landmark longitudinal research distinguishing true resilience (stable trajectories of healthy functioning) from recovery and chronic trauma."
+    },
+    {
+      "author": "Frankl, Viktor E.",
+      "year": 1946,
+      "title": "Man's Search for Meaning",
+      "publisher": "Beacon Press",
+      "location": "Boston",
+      "description": "Existential psychiatric classic detailing how discovering meaning and an unshakeable inner spiritual freedom enables survival through extreme catastrophic adversity."
+    },
+    {
+      "author": "Tedeschi, Richard G. & Calhoun, Lawrence G.",
+      "year": 2004,
+      "title": "Posttraumatic Growth: Conceptual Foundations and Empirical Evidence",
+      "journal": "Psychological Inquiry",
+      "volume": "15(1), 1–18",
+      "description": "Empirical framework examining positive psychological transformation, increased personal strength, and existential depth following severe life crises."
+    },
+    {
+      "author": "Seligman, Martin E.P.",
+      "year": 2011,
+      "title": "Flourish: A Visionary New Understanding of Happiness and Well-being",
+      "publisher": "Free Press",
+      "location": "New York",
+      "description": "Introduces the PERMA model of positive psychology and explores comprehensive soldier fitness and cognitive resilience training."
+    },
+    {
+      "author": "Kabat-Zinn, Jon",
+      "year": 1990,
+      "title": "Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness",
+      "publisher": "Delacorte",
+      "location": "New York",
+      "description": "Foundational clinical manual introducing Mindfulness-Based Stress Reduction (MBSR), adapting contemplative attentional and witness practices for modern behavioral medicine."
+    }
+  ]
+}

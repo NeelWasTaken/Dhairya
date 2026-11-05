@@ -1,0 +1,51 @@
+{
+  "slug": "translation-traps-one-word",
+  "title": "Translation Traps: How One Word Changes the Upanishads",
+  "date": "October 2026",
+  "readingTime": "9 min read",
+  "tags": [
+    "Translation",
+    "Hermeneutics",
+    "Philology",
+    "Comparative Philosophy"
+  ],
+  "relatedChapters": [
+    2,
+    16
+  ],
+  "relatedVerses": [
+    "chandogya-6-8-7",
+    "katha-1-2-1"
+  ],
+  "summary": "A philological investigation of critical Sanskrit terms—ātman, brahman, śreyas/preyas, tapas, śraddhā—and how competing English translations alter the psychological meaning of the texts.",
+  "viewOrigin": "Comparative philological study analyzing Max Müller (1879), Paul Deussen (1897), S. Radhakrishnan (1953), and Patrick Olivelle (1998).",
+  "limits": "Translation between ancient Sanskrit and modern English inevitably loses tonal nuances; every translation is an act of interpretation that reflects the philosophical commitments of the translator.",
+  "sections": [
+    {
+      "heading": "The Danger of the Western Lens",
+      "paragraphs": [
+        "When nineteenth-century European scholars first translated the Upanishads into German and English, they carried theological and philosophical presuppositions that fundamentally warped the texts. Terms rooted in empirical contemplative psychology were translated into Christian theological categories.",
+        "Perhaps the most disastrous example is the translation of Ātman as \"Soul.\" In Western Abrahamic theology, the soul is a created, finite entity unique to each individual that can be judged, damned, or saved. In the Upanishads, Ātman is uncreated, infinite, universal consciousness. Translating Ātman as \"soul\" leads readers to believe the Upanishads promote narcissistic ego-preservation rather than ego-transcendence."
+      ]
+    },
+    {
+      "heading": "Comparing Five Critical Terms",
+      "paragraphs": [
+        "1. Śraddhā: Often translated as \"faith.\" In Christianity, faith frequently denotes believing in dogma without evidence (fides). In the Upanishads, Śaṅkara defines śraddhā as \"astikya-buddhi\"—a posture of open, rigorous conviction that truth exists and can be directly verified through inquiry. It is closer to the \"working hypothesis\" of a scientist than blind belief.\n\n2. Tapas: Frequently translated as \"penance\" or \"mortification,\" conjuring images of flagellation and guilt. In Sanskrit, tapas literally means \"heat\" or \"incandescence\"—the concentrated thermal energy of disciplined focus.\n\n3. Śreyas vs Preyas: Often translated as \"Good vs Evil.\" But preyas is not evil; it is merely that which is immediately pleasurable and agreeable (priya). Śreyas is that which leads to lasting flourishing and liberation.\n\n4. Brahman: Translated by Müller as \"God\" or \"Lord.\" But Brahman derives from the root bṛh (to expand, to swell). It is not a bearded patriarch in heaven, but the infinite, boundless field of existence itself.\n\n5. Māyā: Translated as \"illusion\" or \"delusion,\" leading Western critics to dismiss Advaita as world-denying nihilism. In classical texts, māyā denotes \"that which cannot be categorized as either real or unreal\" (anirvacanīya)—the creative, fluctuating appearance of relativity."
+      ]
+    },
+    {
+      "heading": "Translating for Resilience",
+      "paragraphs": [
+        "When we recover the authentic psychological meanings of these words, the Upanishads cease to be obscure mystical poetry and reveal themselves as precision manuals of human resilience.",
+        "Resilience is not asking a distant deity for rescue; it is stoking the tapas of attention, cultivating the viveka of discernment, and realizing that your fundamental ground is the boundless, undying Brahman."
+      ]
+    }
+  ],
+  "sources": [
+    "Müller, F. Max. The Upanishads. Sacred Books of the East, Vols. 1 & 15. Oxford University Press, 1879/1884.",
+    "Deussen, Paul. The Philosophy of the Upanishads. T&T Clark, 1906.",
+    "Olivelle, Patrick. The Early Upanisads. Oxford University Press, 1998.",
+    "Radhakrishnan, S. The Principal Upanisads. George Allen & Unwin, 1953."
+  ]
+}

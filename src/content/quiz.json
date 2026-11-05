@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the psychological definition of 'Abhaya' (fearlessness) in the Taittirīya and Bṛhadāraṇyaka Upaniṣads?",
+    "options": [
+      "Physical invincibility and fearlessness in armed combat",
+      "The complete absence of fear born from realizing non-dual oneness, since fear arises from perceived separateness ('dvitīyād vai bhayam')",
+      "Suppression of fearful emotions through stoic willpower",
+      "A ritual sacrifice performed to ward off natural disasters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Bṛhadāraṇyaka 1.4.2, the sage declares 'dvitīyād vai bhayaṃ bhavati' (fear arises from a second entity). When there is no perceived threat outside the Self, existential terror dissolves."
+  },
+  {
+    "id": 2,
+    "question": "In the famous chariot metaphor of the Kaṭha Upaniṣad (1.3.3–9), what does the charioteer (sārathi) represent?",
+    "options": [
+      "The physical body (śarīra)",
+      "The discriminative intellect (buddhi)",
+      "The sensory organs (indriyas)",
+      "The wandering mind (manas)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Kaṭha assigns: Ātman = passenger/rider; body = chariot; buddhi = charioteer; manas = reins; indriyas = horses; objects of sense = roads."
+  },
+  {
+    "id": 3,
+    "question": "What distinction does Yama teach Nachiketa regarding human choices in Kaṭha Upaniṣad 1.2.1–2?",
+    "options": [
+      "Dharma vs Adharma",
+      "Śreyas (the good/enduring) vs Preyas (the pleasant/immediate gratification)",
+      "Vidyā vs Samādhi",
+      "Karma vs Bhakti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yama explains that Śreyas and Preyas confront every human being. The wise person discriminates and chooses Śreyas; the short-sighted person clings to Preyas for quick gratification."
+  },
+  {
+    "id": 4,
+    "question": "In Chāndogya Upaniṣad 7.1.3, why does the deeply learned scholar Nārada weep before sage Sanatkumāra?",
+    "options": [
+      "He lost his family in a catastrophic war",
+      "Despite knowing all hymns, grammar, and sciences, he is only a 'knower of words' (mantravit) and not a 'knower of the Self' (ātmavit), so grief still consumes him",
+      "He was rejected from the royal court of Videha",
+      "He failed his Vedic examinations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nārada confesses: 'I am only a knower of texts, not a knower of the Self. I have heard from sages like you that only the knower of Self crosses over sorrow (tarati śokam ātmavit).' Information does not cure existential grief."
+  },
+  {
+    "id": 5,
+    "question": "What is the core pedagogical takeaway from the banyan seed dialogue in Chāndogya Upaniṣad 6.12?",
+    "options": [
+      "Banyan trees should be preserved for forest ecology",
+      "From the invisible subtle essence that appears like 'nothing at all', the mighty manifest reality emerges: That subtle essence is the Self",
+      "The physical world is completely non-existent",
+      "Seeds must be ritually buried before sunrise"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Uddālaka guides Śvetaketu to break open a banyan seed until he sees 'nothing at all', revealing that invisible, subtle potency is the bedrock of the entire manifest cosmos."
+  },
+  {
+    "id": 6,
+    "question": "How is 'Titikṣā' defined in the context of Upaniṣadic resilience (Bṛhadāraṇyaka 4.4.23)?",
+    "options": [
+      "Passive resignation to injustice",
+      "Patient endurance of dualities (heat/cold, pleasure/pain) without retaliation, distress, or psychological collapse",
+      "Extreme physical mortification",
+      "Blind obedience to religious dogmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Titikṣā is deliberate distress tolerance: holding space for physical or emotional discomfort with inner composure, rather than reacting compulsively."
+  },
+  {
+    "id": 7,
+    "question": "What did the divine thunder 'DA-DA-DA' signify to the gods, humans, and demons in Bṛhadāraṇyaka 5.2?",
+    "options": [
+      "Destroy, Defeat, Dominate",
+      "Dāmyata (self-control), Datta (giving), Dayadhvam (compassion)",
+      "Dhyāna (meditation), Dharma (duty), Dhṛti (courage)",
+      "Devatā, Dāsa, Dāna"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prajāpati's thunder gave three psychological antidotes: gods prone to indulgence need self-control (dāmyata); humans prone to greed need giving (datta); demons prone to anger need compassion (dayadhvam)."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT one of the five sheaths (Pañcakośa) in Taittirīya Upaniṣad 2?",
+    "options": [
+      "Annamaya Kośa (food/physical)",
+      "Prāṇamaya Kośa (vital breath)",
+      "Kāmamaya Kośa (sensory desire)",
+      "Vijñānamaya Kośa (wisdom/intellect)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The five sheaths are Annamaya (physical), Prāṇamaya (energy/breath), Manomaya (mind/emotion), Vijñānamaya (intellect/discernment), and Ānandamaya (bliss). 'Kāmamaya' is not one of them."
+  },
+  {
+    "id": 9,
+    "question": "In the 'Two Birds' allegory (Muṇḍaka 3.1.1–2), what do the two birds represent?",
+    "options": [
+      "Good deeds and bad deeds",
+      "The active experiencing self (jīva eating fruit) and the silent witnessing consciousness (Īśvara/Ātman looking on)",
+      "Male and female spiritual principles",
+      "Day and night cycles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One bird eats the sweet and bitter fruits of the tree (sensory experiencing jīva), while the other bird sits silently watching without eating (pure witnessing sākṣī)."
+  },
+  {
+    "id": 10,
+    "question": "What is 'Turīya' in the Māṇḍūkya Upaniṣad (verse 7)?",
+    "options": [
+      "A fourth dream state occurring during REM sleep",
+      "The unconditioned, non-dual baseline of pure awareness that underlies and illuminates waking, dream, and deep sleep",
+      "A trance state achieved only through dangerous drugs",
+      "The death of the physical body"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Turīya is not merely a fourth changing state, but the eternal, unchanging witnessing ground ('śāntaṃ śivam advaitam') upon which waking, dreaming, and deep sleep appear and vanish."
+  },
+  {
+    "id": 11,
+    "question": "What does the famous aphorism 'Nāyam ātmā balahīnena labhyaḥ' (Muṇḍaka 3.2.4) mean in psychological context?",
+    "options": [
+      "Only Olympic weightlifters can understand philosophy",
+      "The Self cannot be realized by one devoid of inner spiritual stamina, moral courage, and psychological vigor",
+      "Physical violence is necessary for enlightenment",
+      "Weak people should be excluded from society"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Śaṅkara clarifies that 'bala' (strength) signifies inner mental fortitude, psychological stamina, and devotion to truth. Without moral spine, the mind collapses when faced with spiritual trials."
+  },
+  {
+    "id": 12,
+    "question": "According to Maitrī Upaniṣad 6.34, what is the ultimate cause of human bondage and liberation?",
+    "options": [
+      "Astrological planetary alignments",
+      "The mind alone ('mana eva manuṣyāṇāṃ kāraṇaṃ bandha-mokṣayoḥ')",
+      "Social class and economic wealth",
+      "Accidental genetic mutations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The mind attached to sensory cravings leads to bondage; the mind clarified and detached from compulsive grasping leads directly to liberation."
+  },
+  {
+    "id": 13,
+    "question": "What is the famous philosophical question asked by Maitreyī to her husband Yājñavalkya in Bṛhadāraṇyaka 2.4?",
+    "options": [
+      "'Where did you hide the gold from King Janaka?'",
+      "'What shall I do with that which cannot make me immortal?' ('yenāhaṃ nāmṛtā syāṃ kim ahaṃ tena kuryām')",
+      "'Why must you leave me for the forest?'",
+      "'Which ritual produces the best harvest?'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When offered half of Yājñavalkya's estate, Maitreyī discards material wealth as incapable of curing mortality: 'What shall I do with that which will not make me immortal? Tell me of that which leads beyond decay.'"
+  },
+  {
+    "id": 14,
+    "question": "What is 'spiritual bypassing', and how do the Upaniṣads safeguard against it?",
+    "options": [
+      "Skipping morning prayers; avoided by strict temple attendance",
+      "Using spiritual concepts (e.g. 'it's all an illusion') to evade authentic emotional pain or developmental wounds; avoided by holistic kosha integration and honest inquiry",
+      "Taking shortcuts on pilgrimages",
+      "A clinical term for religious conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spiritual bypassing uses metaphysics as an avoidance tactic. The Upaniṣads counter this by demanding somatic grounding, ethical purification, and emotional honesty before higher wisdom can be realized."
+  },
+  {
+    "id": 15,
+    "question": "What is the core message of the website's central tagline: 'The storm moves the tree. It does not move the ground'?",
+    "options": [
+      "Banyan trees have deeper roots than pine trees",
+      "External crises and psychological storms inevitably agitate the body-mind, but our deepest identity (Ātman) remains forever motionless, fearless, and unbroken",
+      "Meteorological storms are optical illusions",
+      "One should never plant trees in windy regions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This encapsulates the entire thesis of Dhairya: resilience is not the absence of storms, but anchoring in the unshakeable ground of being while the branches of life sway."
+  }
+]

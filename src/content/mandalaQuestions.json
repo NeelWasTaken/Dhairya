@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": "pace",
+      "prompt": "When life speeds up and turns turbulent, how does your attention naturally respond?",
+      "options": [
+        { "label": "I slow down deliberately to inspect the terrain", "param": { "petals": 12, "symmetry": 6 } },
+        { "label": "I lean into the storm with rapid decisive action", "param": { "petals": 8, "symmetry": 8 } },
+        { "label": "I seek an anchor of silence and pause completely", "param": { "petals": 16, "symmetry": 4 } },
+        { "label": "I drift with the current until clarity emerges", "param": { "petals": 6, "symmetry": 6 } }
+      ]
+    },
+    {
+      "id": "anchors",
+      "prompt": "Where do you instinctively place your anchor when ground feels shaky?",
+      "options": [
+        { "label": "In the breath and physical sensation of the body", "param": { "weight": 2.5, "layer": "ground" } },
+        { "label": "In timeless texts and perennial philosophy", "param": { "weight": 1.5, "layer": "scripture" } },
+        { "label": "In creative solitude and journaling", "param": { "weight": 2.0, "layer": "witness" } },
+        { "label": "In honest conversation with a trusted friend", "param": { "weight": 1.8, "layer": "relation" } }
+      ]
+    },
+    {
+      "id": "support",
+      "prompt": "Which quality of support helps you endure protracted uncertainty?",
+      "options": [
+        { "label": "Firm structure, discipline, and daily routine", "param": { "geometry": "geometric", "spikes": 4 } },
+        { "label": "Gentle non-judgmental acceptance of difficulty", "param": { "geometry": "curvilinear", "spikes": 0 } },
+        { "label": "Humor and lighthearted perspective", "param": { "geometry": "radiant", "spikes": 8 } },
+        { "label": "Quiet shared presence without spoken advice", "param": { "geometry": "concentric", "spikes": 2 } }
+      ]
+    },
+    {
+      "id": "curiosity",
+      "prompt": "How does inquiry show up when you face an obstacle?",
+      "options": [
+        { "label": "As a sharp razor dissecting cause from consequence", "param": { "innerRings": 5, "rotation": 45 } },
+        { "label": "As a broad river seeking alternative pathways", "param": { "innerRings": 3, "rotation": 30 } },
+        { "label": "As quiet wonder asking what this experience reveals", "param": { "innerRings": 4, "rotation": 60 } },
+        { "label": "As patience, waiting for the dust to settle before deciding", "param": { "innerRings": 2, "rotation": 15 } }
+      ]
+    },
+    {
+      "id": "rest",
+      "prompt": "What does genuine restoration look like in your life?",
+      "options": [
+        { "label": "Deep dreamless sleep and physiological surrender", "param": { "shade": "indigo-gold", "glow": 0.8 } },
+        { "label": "Walking in open forest, river, or sky", "param": { "shade": "emerald-gold", "glow": 0.6 } },
+        { "label": "Deep immersion in art, music, or poetry", "param": { "shade": "saffron-gold", "glow": 0.7 } },
+        { "label": "Total digital disconnection and sacred silence", "param": { "shade": "sandstone-gold", "glow": 0.5 } }
+      ]
+    },
+    {
+      "id": "meaning",
+      "prompt": "When you look back on a past ordeal, what gave it lasting value?",
+      "options": [
+        { "label": "Discovering a depth of courage I didn't know I had", "param": { "centerGlyph": "अभय" } },
+        { "label": "Deepening my compassion for other beings who suffer", "param": { "centerGlyph": "दया" } },
+        { "label": "Realizing that my worth is not tied to outcomes", "param": { "centerGlyph": "सत्यम्" } },
+        { "label": "Finding an unshakeable quiet that remains through all storm", "param": { "centerGlyph": "धैर्यम्" } }
+      ]
+    }
+  ]
+}

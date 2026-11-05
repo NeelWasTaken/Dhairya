@@ -1,0 +1,642 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700;800;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=IM+Fell+English:ital@0;1&family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Noto+Serif+Devanagari:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════
+   DHAIRYA v4 — Light Editorial Theme & Cosmic Counterpart
+   Reference: why.zero.university motion language + Indian Knowledge System
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  /* Light Editorial Theme (Warm stone white, deep ink, saffron, indigo, gold) */
+  --bg: #FAF8F3;              /* Refined warm white editorial background */
+  --bg-alt: #F2EFE8;          /* Refined stone-tinted secondary white */
+  --surface: #FFFFFF;         /* Pure crisp white card surface */
+  --surface-sunken: #F5F2EB;  /* Soft sunken container */
+  --ink: #14121F;             /* Deep carbon-ink primary text */
+  --ink-soft: #423E54;        /* Refined editorial secondary ink */
+  --ink-faint: #767189;       /* Muted footnotes & marginalia */
+  --saffron: #E07A1F;         /* Royal radiant saffron accent */
+  --indigo: #1B2150;          /* Deep Vedic indigo accent */
+  --vermilion: #B8301C;       /* Classical sindoor vermilion for Devanagari */
+  --peacock: #0E6B6B;         /* Balanced cool peacock teal */
+  --peacock-light: #169393;
+  --lotus: #C95B7F;           /* Contemplative lotus rose */
+  --gold: #B8892B;            /* Refined temple gold leaf hairline */
+  --gold-light: #D8AF50;
+  --gold-shimmer: #C99732;
+  --temple-stone: #2A2420;
+  --dawn-gradient: linear-gradient(180deg, #FAF8F3 0%, #F5F0E6 50%, #ECE6D8 100%);
+  --sandstone-gradient: linear-gradient(135deg, #FAF8F3 0%, #F2EFE8 100%);
+
+  /* Functional mappings */
+  --bg-primary: var(--bg);
+  --bg-secondary: var(--bg-alt);
+  --bg-card: var(--surface);
+  --text-primary: var(--ink);
+  --text-secondary: var(--ink-soft);
+  --text-muted: var(--ink-faint);
+  --accent-primary: var(--saffron);
+  --accent-secondary: var(--vermilion);
+  --accent-cool: var(--peacock);
+  --accent-highlight: var(--gold);
+  --border-color: rgba(184, 137, 43, 0.28);
+  --border-hairline: rgba(20, 18, 31, 0.08);
+  --shadow-soft: 0 10px 30px -10px rgba(20, 18, 31, 0.06), 0 4px 12px rgba(184, 137, 43, 0.04);
+  --shadow-hover: 0 20px 45px -12px rgba(20, 18, 31, 0.12), 0 8px 24px rgba(184, 137, 43, 0.10);
+
+  /* Typography scale */
+  --font-heading: 'Cinzel Decorative', 'Cinzel', serif;
+  --font-heading-alt: 'Cinzel', serif;
+  --font-body: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+  --font-sanskrit: 'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif;
+  --font-marginalia: 'IM Fell English', serif;
+
+  /* Spacing Scale (Section gaps clamp 6rem to 12rem, block gap >= 64px) */
+  --section-gap: clamp(6rem, 14vh, 12rem);
+  --block-gap: clamp(40px, 5vw, 64px);
+  --card-padding: clamp(1.5rem, 3vw, 3rem);
+  --card-gap: clamp(1.25rem, 2.5vw, 2.5rem);
+  --nav-height: 64px;
+  --header-height: 64px;
+  --header-height-mobile: 56px;
+
+  /* Motion Rhythm & Easing (why.zero.university inspired) */
+  --ease-expo-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-reposition: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* Spacing Scale Tokens */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 40px;
+  --space-6: 64px;
+  --space-7: 96px;
+  --space-8: 128px;
+
+  /* Z-Index Hierarchy */
+  --z-bg: 0;
+  --z-ornament: 1;
+  --z-content: 10;
+  --z-sticky-subbar: 40;
+  --z-header: 50;
+  --z-overlay: 100;
+  --z-cursor: 1000;
+}
+
+/* ── Night Gurukul / Cosmic Theme (True Counterpart) ─────────── */
+[data-theme="night"] {
+  --bg: #08070D;              /* Deep Cosmic Night obsidian */
+  --bg-alt: #100E1A;          /* Midnight sanctum */
+  --surface: #161426;         /* Refined dark slab surface */
+  --surface-sunken: #0D0C15;  /* Deep sunken cosmic pocket */
+  --ink: #FAF8F3;             /* Luminous warm white script */
+  --ink-soft: #BDB8D0;        /* Soft celestial silver-indigo */
+  --ink-faint: #7D7796;       /* Muted marginalia */
+  --saffron: #F59338;         /* Glowing radiant saffron */
+  --indigo: #323B7A;          /* Luminous indigo */
+  --vermilion: #E24B35;
+  --peacock: #1FB3B3;
+  --peacock-light: #3DD4D4;
+  --lotus: #E57A9E;
+  --gold: #D4AF37;            /* Radiant gold hairline */
+  --gold-light: #F3D580;
+  --dawn-gradient: linear-gradient(180deg, #120F1F 0%, #08070D 100%);
+  --sandstone-gradient: linear-gradient(135deg, #141224 0%, #0A0912 100%);
+
+  --bg-primary: var(--bg);
+  --bg-secondary: var(--bg-alt);
+  --bg-card: var(--surface);
+  --text-primary: var(--ink);
+  --text-secondary: var(--ink-soft);
+  --text-muted: var(--ink-faint);
+  --border-color: rgba(212, 175, 55, 0.32);
+  --border-hairline: rgba(250, 248, 243, 0.12);
+  --shadow-soft: 0 14px 40px -10px rgba(0, 0, 0, 0.65);
+  --shadow-hover: 0 24px 60px -15px rgba(212, 175, 55, 0.18);
+}
+
+/* ── Base Setup ─────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: clamp(1.1rem, 1.25vw, 1.35rem);
+  line-height: 1.8;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+  overflow-x: hidden;
+  min-height: 100vh;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* Clean, dignified editorial finish (replaces old noisy parchment grain) */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9998;
+  opacity: 0.015;
+  background-image: radial-gradient(rgba(20, 18, 31, 0.12) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+[data-theme="night"] body::before {
+  opacity: 0.02;
+  background-image: radial-gradient(rgba(250, 248, 243, 0.15) 1px, transparent 1px);
+}
+
+/* Soft atmospheric vignette */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9997;
+  background: radial-gradient(ellipse at center, transparent 65%, rgba(30, 27, 46, 0.05) 100%);
+}
+
+[data-theme="night"] body::after {
+  background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.5) 100%);
+}
+
+/* ── Editorial Fluid Typography ──────────────────────────────── */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--text-primary);
+  letter-spacing: 0.02em;
+}
+
+h1 { font-size: clamp(2.8rem, 7vw, 6.5rem); }
+h2 { font-size: clamp(2rem, 4.5vw, 3.8rem); font-family: var(--font-heading-alt); }
+h3 { font-size: clamp(1.5rem, 3vw, 2.4rem); font-family: var(--font-heading-alt); }
+h4 { font-size: clamp(1.2rem, 2vw, 1.7rem); font-family: var(--font-heading-alt); }
+
+p {
+  margin-bottom: 1.35em;
+  color: var(--text-secondary);
+}
+
+strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* Drop Cap with Gold & Vermilion */
+.drop-cap::first-letter {
+  float: left;
+  font-family: var(--font-heading);
+  font-size: 4.2em;
+  line-height: 0.78;
+  padding-right: 0.12em;
+  padding-top: 0.04em;
+  color: var(--vermilion);
+  font-weight: 900;
+  text-shadow: 1px 1px 0 var(--gold);
+}
+
+[data-theme="night"] .drop-cap::first-letter {
+  color: var(--gold);
+  text-shadow: 1px 1px 0 var(--saffron);
+}
+
+/* Sanskrit & Devanagari */
+.sanskrit {
+  font-family: var(--font-sanskrit);
+  font-size: 1.28em;
+  line-height: 1.85;
+  color: var(--vermilion);
+  letter-spacing: 0.01em;
+}
+
+[data-theme="night"] .sanskrit {
+  color: var(--saffron);
+}
+
+.iast {
+  font-family: var(--font-body);
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.marginalia {
+  font-family: var(--font-marginalia);
+  font-size: 0.88em;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Gold Shimmer Effect ─────────────────────────────────────── */
+.gold-shimmer {
+  background: linear-gradient(
+    105deg,
+    var(--gold) 0%,
+    var(--gold-light) 35%,
+    #FFF4D0 50%,
+    var(--gold-light) 65%,
+    var(--gold) 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% center; }
+  100% { background-position: -200% center; }
+}
+
+/* ── Section Backgrounds (Rhythmic Bands) ────────────────────── */
+.section-ivory {
+  background-color: var(--bg);
+}
+
+.section-sandstone {
+  background-color: var(--bg-alt);
+}
+
+.section-dawn {
+  background: var(--dawn-gradient);
+}
+
+.section-night {
+  background-color: #07060B !important;
+  color: #F4EEDC !important;
+}
+
+.section-night h2, .section-night h3, .section-night h4 {
+  color: var(--gold) !important;
+}
+
+.section-night p {
+  color: #C5BFD4 !important;
+}
+
+/* ── Global Layout Containers ────────────────────────────────── */
+.page-container {
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: clamp(1.25rem, 5vw, 6rem);
+  padding-top: var(--header-height);
+}
+@media (max-width: 640px) {
+  .page-container {
+    padding-top: var(--header-height-mobile);
+    padding-inline: clamp(1rem, 4vw, 1.5rem);
+  }
+}
+
+.content-column {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.reading-column {
+  width: 100%;
+  max-width: 72ch;
+  margin-inline: auto;
+  text-align: left;
+}
+
+.wide-container {
+  width: 100%;
+  max-width: 1400px;
+  margin-inline: auto;
+}
+
+/* ── Typography & Wrapping ───────────────────────────────────── */
+.text-balance {
+  text-wrap: balance;
+}
+
+h1, h2, h3, h4, .title-balance {
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+
+/* ── 12-Column Editorial Grid ────────────────────────────────── */
+.editorial-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: clamp(1rem, 2.5vw, 2.5rem);
+  width: 100%;
+  padding-inline: clamp(1.25rem, 4vw, 5rem);
+}
+
+/* ── Centered Verse Banner (No Viewport Overflow) ────────────── */
+.full-width-verse-band {
+  width: 100%;
+  max-width: 1400px;
+  margin-inline: auto;
+  margin-block: var(--space-6);
+  padding: clamp(2.5rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3.5rem);
+  background: var(--bg-alt);
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  box-shadow: var(--shadow-soft);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+[data-theme="night"] .full-width-verse-band {
+  background: #0E0C18;
+}
+
+/* ── Card Styling ────────────────────────────────────────────── */
+.dawn-card {
+  background: var(--surface);
+  border: 1px solid var(--border-hairline);
+  box-shadow: var(--shadow-soft);
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.dawn-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--saffron), var(--gold), var(--peacock));
+  opacity: 0.8;
+}
+
+.dawn-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+  border-color: var(--border-color);
+}
+
+/* ── Gold-Leaf & Three Worlds Design System Additions (v4) ── */
+.gold-leaf-border {
+  border: 1px solid rgba(212, 175, 55, 0.45);
+  box-shadow: inset 0 0 0 1px rgba(255, 235, 170, 0.15);
+}
+
+.gold-foil-hover {
+  position: relative;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.gold-foil-hover::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(105deg, transparent 20%, rgba(255, 235, 170, 0.25) 50%, transparent 80%);
+  background-size: 200% 100%;
+  opacity: 0;
+  transition: opacity 0.4s ease, background-position 0.6s ease;
+  pointer-events: none;
+}
+
+.gold-foil-hover:hover::after {
+  opacity: 1;
+  background-position: -100% 0;
+}
+
+.gold-emboss {
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.4), 0 -1px 1px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="night"] .gold-emboss {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9), 0 -1px 1px rgba(255, 215, 120, 0.3);
+}
+
+/* Three Worlds contextual classes */
+.world-cave {
+  --current-world-accent: #E06328;
+  --current-world-glow: rgba(224, 99, 40, 0.25);
+}
+
+.world-forest {
+  --current-world-accent: #48A36E;
+  --current-world-glow: rgba(72, 163, 110, 0.25);
+}
+
+.world-cosmic {
+  --current-world-accent: #6D88E8;
+  --current-world-glow: rgba(109, 136, 232, 0.25);
+}
+
+/* ── Callout Boxes ───────────────────────────────────────────── */
+.resilience-box {
+  background: linear-gradient(135deg, rgba(224, 122, 31, 0.07), rgba(184, 137, 43, 0.05));
+  border-left: 4px solid var(--saffron);
+  padding: 1.5rem 2rem;
+  border-radius: 0 8px 8px 0;
+  margin: 2rem 0;
+}
+
+.resilience-box h4 {
+  color: var(--saffron);
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  margin-bottom: 0.5rem;
+}
+
+.modern-parallel-box {
+  background: linear-gradient(135deg, rgba(14, 107, 107, 0.07), rgba(14, 107, 107, 0.02));
+  border-left: 4px solid var(--peacock);
+  padding: 1.5rem 2rem;
+  border-radius: 0 8px 8px 0;
+  margin: 2rem 0;
+}
+
+.modern-parallel-box h4 {
+  color: var(--peacock);
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  margin-bottom: 0.5rem;
+}
+
+.reflect-prompt {
+  background: linear-gradient(135deg, rgba(201, 91, 127, 0.06), rgba(201, 91, 127, 0.02));
+  border: 1px dashed var(--lotus);
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  text-align: center;
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+/* ── Circular Reveal Transition ──────────────────────────────── */
+.theme-clip-transition {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 99999;
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 120s linear infinite;
+}
+
+@keyframes mask-rise {
+  0% {
+    opacity: 0;
+    transform: translateY(24px) scale(0.96);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-mask-rise {
+  animation: mask-rise 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* ── Scrollbars ──────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gold);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--saffron);
+}
+
+/* ── Reduced Motion Overrides ────────────────────────────────── */
+@keyframes inkRipple {
+  0% {
+    width: 0px;
+    height: 0px;
+    opacity: 0.9;
+    filter: blur(0px);
+  }
+  100% {
+    width: 600px;
+    height: 600px;
+    opacity: 0;
+    filter: blur(14px);
+  }
+}
+.animate-ink-ripple {
+  animation: inkRipple 1.4s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+}
+
+/* ── Text Emergence & Reveal System ──────────────────────────── */
+.reveal-wrapper {
+  display: block;
+  width: 100%;
+  position: relative;
+  overflow: clip;
+}
+
+/* Pre-hide text safely: opacity 0 added before paint, removed on animation start */
+.reveal-pending {
+  opacity: 0 !important;
+  visibility: hidden;
+  will-change: transform, opacity;
+}
+
+.reveal-active {
+  visibility: visible !important;
+}
+
+.reveal-done {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  will-change: auto !important;
+}
+
+/* Safety overrides: print, reduced motion, or no-js must ALWAYS be visible */
+@media print {
+  .reveal-pending, .reveal-active {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-pending, .reveal-active {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+  }
+}
+
+/* Kinetic letter & Sheen sweep */
+.kinetic-letter {
+  display: inline-block;
+  will-change: transform, opacity;
+}
+
+@keyframes gold-sheen {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.gold-sheen-sweep {
+  background: linear-gradient(
+    90deg,
+    var(--gold) 0%,
+    var(--gold-light) 40%,
+    #FFF8E0 50%,
+    var(--gold-light) 60%,
+    var(--gold) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gold-sheen 1.8s ease-out 1 forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 12,
+  "devanagariNumeral": "१२",
+  "title": "Mind as the Cause of Bondage and Freedom",
+  "subtitle": "The Anatomy of Inner Architecture & Energetic Mastery",
+  "sanskritTitle": "मन एव मनुष्याणां कारणं बन्धमोक्षयोः",
+  "epigraph": "चित्तमेव हि संसारं तत्प्रयत्नेन शोधयेत् — The mind itself is the world of flux; therefore let a person purify it with diligent care.",
+  "content": [
+    {
+      "type": "prose",
+      "text": "In the psychological cartography of the Upaniṣads, the external world does not possess the inherent power to bind or torment the human spirit. The locus of both subjugation and sovereignty resides squarely within the architecture of the mind (manas and citta). The Maitrī Upaniṣad (6.34) delivers one of the most celebrated aphorisms in world psychology: 'mana eva manuṣyāṇāṃ kāraṇaṃ bandha-mokṣayoḥ'—mind alone is the cause of bondage and liberation. When the mind is passively colonized by sensory attachments and compulsive aversions, it becomes the engine of psychic entrapment; when it is cleansed through discriminative awareness, it serves as the vehicle of liberation."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "maitri-6-34"
+    },
+    {
+      "type": "prose",
+      "text": "The Upaniṣadic sages were remarkably free from the Cartesian dualism that later plagued Western philosophy. They did not view the mind as an ethereal ghost disconnected from somatic reality, nor did they reduce consciousness to mere biological matter. In the Śvetāśvatara Upaniṣad (2.8–9), we encounter an exquisitely practical psychosomatic discipline: the seeker is instructed to steady the physical frame with the upper three parts (chest, neck, and head) erect, draw the wandering senses into the heart through deliberate mental focus, and calibrate the breath through measured nasal rhythm. Posture and breath are recognized as direct levers for stabilizing mental churn."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "svetasvatara-2-8-9"
+    },
+    {
+      "type": "prose",
+      "text": "This physiological grounding is deepened in the Praśna Upaniṣad, where the sage Pippalāda responds to the inquiries of six earnest seekers. In the third praśna, Pippalāda explains how the primary life-force (Prāṇa) arises directly from the conscious Self ('ātmana eṣa prāṇo jāyate'), casting an energetic shadow over the body and entering somatic channels through the agency of mental intention ('mano-kṛtena'). Just as a monarch designates regional administrators over distinct towns, so does the master Prāṇa allocate subsidiary currents—Apāna for elimination, Samāna for digestive equilibrium, Vyāna for circulatory distribution, and Udāna for vertical integration and transition. Breath and autonomic balance are thus revealed to be the somatic language of the mind."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "prasna-3-3-4"
+    },
+    {
+      "type": "prose",
+      "text": "Yet the Upaniṣads deliver an even more radical psychological insight: the mind, for all its dazzling complexity, is not the ultimate sovereign. The opening verse of the Kena Upaniṣad sounds like an ancient deconstructive inquiry: 'keneṣitaṃ patati preṣitaṃ manaḥ?'—By whom impelled, by whom commanded does the mind speed toward its targets? Who animates the eye, who marshals the tongue, who awakens the vital breath? This inquiry shatters our habitual identification with obsessive rumination. The mind is revealed as an instrument (karaṇa)—a sophisticated cognitive apparatus—not the final conscious subject."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "kena-1-1"
+    },
+    {
+      "type": "resilience_insight",
+      "title": "The Sovereign Observer",
+      "text": "Resilience collapses whenever we believe that we ARE our anxious thoughts. When cognitive catastrophic loops occur, the Maitrī and Kena insights provide instant therapeutic defusion: the mind is an organ producing mental secretions, just as the stomach produces digestive enzymes. By asking 'who is observing this mental noise?', we step back into the sovereign seat of the witness, regaining executive emotional control."
+    },
+    {
+      "type": "modern_parallel",
+      "title": "Cognitive Defusion and Vagal Modulation",
+      "text": "This Upaniṣadic synthesis closely mirrors modern polyvagal theory (Porges, 2011) and Acceptance and Commitment Therapy (ACT; Hayes, Strosahl, & Wilson, 1999). Polyvagal research confirms that diaphragmatic breathing and upright postural alignment stimulate the ventral vagal complex, signaling safety to the amygdala. Simultaneously, ACT's concept of 'cognitive defusion'—stepping back from thoughts to see them as ongoing verbal processes rather than literal truths—replicates the Kena inquiry into the observer behind the cognitive apparatus."
+    },
+    {
+      "type": "reflect",
+      "prompt": "When you notice mental worry accelerating today, pause and ask the Kena question: 'Who is the silent one aware of this thought?' Notice what happens to the intensity of the anxiety the moment you become the observer."
+    }
+  ],
+  "sources": [
+    "Maitrī Upaniṣad 6.34",
+    "Śvetāśvatara Upaniṣad 2.8–9",
+    "Praśna Upaniṣad 3.3–4",
+    "Kena Upaniṣad 1.1",
+    "Śaṅkara's Bhāṣya on Kena and Praśna",
+    "Anand C. Paranjpe, Self and Identity in Modern Psychology and Indian Thought (1998)"
+  ],
+  "wordCount": 780
+}

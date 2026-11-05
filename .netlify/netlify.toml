@@ -1,0 +1,28 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/neel/.gemini/antigravity/scratch/dhairya/dist"
+publishOrigin = "ui"
+commandOrigin = "ui"
+base = "/Users/neel/.gemini/antigravity/scratch/dhairya"
+command = "npm run build"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]

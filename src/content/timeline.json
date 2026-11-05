@@ -1,0 +1,44 @@
+[
+  {
+    "period": "Early Vedic Period",
+    "dates": "c. 1500 – 1000 BCE",
+    "region": "Sapta Sindhu (Northwestern subcontinent / Punjab)",
+    "keyDevelopments": "Composition of the Ṛgveda Saṃhitā; focus on cosmic order (Ṛta), natural powers (Agni, Indra, Varuṇa), and communal sacrificial hymns.",
+    "psychologicalFocus": "External harmony with natural and cosmic forces; communal protection and collective prayer."
+  },
+  {
+    "period": "Middle to Late Vedic Period",
+    "dates": "c. 1000 – 800 BCE",
+    "region": "Kuru-Pañcāla heartland (Ganges-Yamuna Doab)",
+    "keyDevelopments": "Sāmaveda, Yajurveda, Atharvaveda, and Brāhmaṇa prose manuals. Complex ritual systematization and preliminary interiorization of sacrifice (Prāṇāgnihotra).",
+    "psychologicalFocus": "Discipline, ritual precision, and early models of breath (Prāṇa) as the internal sacrificial flame."
+  },
+  {
+    "period": "Early Upaniṣadic Period",
+    "dates": "c. 800 – 500 BCE",
+    "region": "Eastern Gangetic Plain (Videha, Kosala, Magadha, Kāśī)",
+    "keyDevelopments": "Oldest prose Upaniṣads: Bṛhadāraṇyaka, Chāndogya, Taittirīya, Aitareya, Kena. Rise of royal debate assemblies (King Janaka), forest academies, and women sages (Gārgī, Maitreyī).",
+    "psychologicalFocus": "Radical inward turn: discovery of Ātman-Brahman non-duality; inquiry into the witness of consciousness; overcoming sorrow through self-knowledge."
+  },
+  {
+    "period": "Middle Verse Upaniṣads",
+    "dates": "c. 500 – 200 BCE",
+    "region": "Wider northern and central India",
+    "keyDevelopments": "Metrical Upaniṣads: Kaṭha, Īśā, Śvetāśvatara, Muṇḍaka, Praśna. Integration of early Sāṅkhya and Yoga paradigms; chariot allegory; two birds metaphor.",
+    "psychologicalFocus": "Self-regulation, attentional mastery, ethical discrimination (Śreyas vs Preyas), and somatic breath coordination."
+  },
+  {
+    "period": "Late Classical Upaniṣads & Epics",
+    "dates": "c. 200 BCE – 200 CE",
+    "region": "Pan-Indian distribution",
+    "keyDevelopments": "Māṇḍūkya, Maitrī Upaniṣads; composition of the Bhagavad Gītā (as Smṛti essence of Upaniṣads) and early Brahma Sūtras.",
+    "psychologicalFocus": "Four states of consciousness (Turīya), Karma Yoga (action without collapse), and systematic methods for mind liberation."
+  },
+  {
+    "period": "Classical Scholastic Period",
+    "dates": "c. 700 – 1300 CE",
+    "region": "All major regions of India (Kāñcī, Śṛṅgerī, Vārāṇasī, Dvārakā, Badarīnātha)",
+    "keyDevelopments": "Systematization of the Prasthānatrayī by Ādi Śaṅkara (Advaita), Rāmānuja (Viśiṣṭādvaita), and Madhvācārya (Dvaita).",
+    "psychologicalFocus": "Epistemological rigor (Śravaṇa-Manana-Nididhyāsana), distress tolerance (Titikṣā), and analytical debate methods."
+  }
+]

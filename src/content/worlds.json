@@ -1,0 +1,69 @@
+{
+  "worlds": {
+    "cave": {
+      "id": "cave",
+      "name": "The Cave of Yama",
+      "sanskrit": "यमगुहा",
+      "description": "Charcoal stone, ember-orange embers, deep existential resonance. Where mortality strips away illusion.",
+      "bg": "#0D0C10",
+      "surface": "#16141D",
+      "accent": "#E06328",
+      "accentSecondary": "#942416",
+      "glow": "rgba(224, 99, 40, 0.22)",
+      "text": "#EAE5DF",
+      "textMuted": "#9C948F",
+      "soundBed": "low-drone",
+      "revealOrigin": "top-drop"
+    },
+    "forest": {
+      "id": "forest",
+      "name": "The Forest Gurukul",
+      "sanskrit": "तपोवन गुरुकुल",
+      "description": "Morning mist, green-gold dappled sunlight, leaf rustle and birdsong tones. Where teacher and student sit in living inquiry.",
+      "bg": "#0C120E",
+      "surface": "#121C16",
+      "accent": "#48A36E",
+      "accentSecondary": "#D4AF37",
+      "glow": "rgba(72, 163, 110, 0.2)",
+      "text": "#F0EFE6",
+      "textMuted": "#99A399",
+      "soundBed": "forest-harmonics",
+      "revealOrigin": "left-slide"
+    },
+    "cosmic": {
+      "id": "cosmic",
+      "name": "The Cosmic Night",
+      "sanskrit": "चिदाकाश",
+      "description": "Nocturnal indigo, silver-gold starfields, silent witness consciousness. The sky of pure awareness (Turīya).",
+      "bg": "#060714",
+      "surface": "#0C0F24",
+      "accent": "#6D88E8",
+      "accentSecondary": "#D4AF37",
+      "glow": "rgba(109, 136, 232, 0.25)",
+      "text": "#F3F2FA",
+      "textMuted": "#A1A2BC",
+      "soundBed": "star-shimmer",
+      "revealOrigin": "depth-scale"
+    }
+  },
+  "chapterWorldMapping": {
+    "0": "forest",
+    "1": "forest",
+    "2": "forest",
+    "3": "cave",
+    "4": "cave",
+    "5": "cave",
+    "6": "forest",
+    "7": "forest",
+    "8": "cave",
+    "9": "forest",
+    "10": "cosmic",
+    "11": "cosmic",
+    "12": "cosmic",
+    "13": "forest",
+    "14": "forest",
+    "15": "forest",
+    "16": "cave",
+    "17": "cosmic"
+  }
+}

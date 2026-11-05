@@ -1,0 +1,602 @@
+[
+  {
+    "term": "Abhaya",
+    "devanagari": "अभय",
+    "iast": "abhaya",
+    "meaning": "Fearlessness; the state of being free from dread, born of recognizing the non-dual Self.",
+    "category": "Core Virtues",
+    "etymology": "a- (not) + bhaya (fear)"
+  },
+  {
+    "term": "Advaita",
+    "devanagari": "अद्वैत",
+    "iast": "advaita",
+    "meaning": "Non-duality; the philosophical school holding that individual consciousness (Ātman) and cosmic ground (Brahman) are identical.",
+    "category": "Philosophical Schools",
+    "etymology": "a- (not) + dvaita (dual)"
+  },
+  {
+    "term": "Aitareya",
+    "devanagari": "ऐतरेय",
+    "iast": "aitareya",
+    "meaning": "One of the oldest Mukhya Upaniṣads, belonging to the Ṛgveda, containing the Mahāvākya 'Prajñānaṃ Brahma'.",
+    "category": "Texts",
+    "etymology": "From sage Mahīdāsa Aitareya"
+  },
+  {
+    "term": "Akṣara",
+    "devanagari": "अक्षर",
+    "iast": "akṣara",
+    "meaning": "The Imperishable, unalterable; also refers to the indestructible sacred syllable OM.",
+    "category": "Metaphysics",
+    "etymology": "a- (not) + kṣara (perishable)"
+  },
+  {
+    "term": "Annamaya Kośa",
+    "devanagari": "अन्नमयकोश",
+    "iast": "annamaya-kośa",
+    "meaning": "The physical sheath made of food and nourishment; the gross biological body.",
+    "category": "Pañcakośa",
+    "etymology": "anna (food) + maya (consisting of) + kośa (sheath)"
+  },
+  {
+    "term": "Ānandamaya Kośa",
+    "devanagari": "आनन्दमयकोश",
+    "iast": "ānandamaya-kośa",
+    "meaning": "The causal sheath of bliss and joyful peace experienced in deep sleep and contemplation.",
+    "category": "Pañcakośa",
+    "etymology": "ānanda (bliss) + maya + kośa"
+  },
+  {
+    "term": "Ātman",
+    "devanagari": "आत्मन्",
+    "iast": "ātman",
+    "meaning": "The innermost Self; pure witnessing consciousness that remains invariant across all states of mind.",
+    "category": "Metaphysics",
+    "etymology": "Root an- (to breathe) or at- (to go/pervade)"
+  },
+  {
+    "term": "Avidyā",
+    "devanagari": "अविद्या",
+    "iast": "avidyā",
+    "meaning": "Primordial ignorance; metaphysical unawareness of one's true nature as non-dual consciousness.",
+    "category": "Epistemology",
+    "etymology": "a- (not) + vidyā (knowledge)"
+  },
+  {
+    "term": "Bhāṣya",
+    "devanagari": "भाष्य",
+    "iast": "bhāṣya",
+    "meaning": "Scholarly commentary on root philosophical scriptures (such as Śaṅkara's Upaniṣad-bhāṣyas).",
+    "category": "Literary Forms",
+    "etymology": "From bhāṣ (to speak/explain)"
+  },
+  {
+    "term": "Bhūmā",
+    "devanagari": "भूमा",
+    "iast": "bhūmā",
+    "meaning": "The Infinite, the Immense; that unconditioned plenum in which alone true bliss resides.",
+    "category": "Metaphysics",
+    "etymology": "From bahu (much, great)"
+  },
+  {
+    "term": "Brahman",
+    "devanagari": "ब्रह्मन्",
+    "iast": "brahman",
+    "meaning": "The infinite, unchanging, all-pervasive ground of all existence and consciousness.",
+    "category": "Metaphysics",
+    "etymology": "Root bṛh- (to swell, expand, grow)"
+  },
+  {
+    "term": "Bṛhadāraṇyaka",
+    "devanagari": "बृहदारण्यक",
+    "iast": "bṛhadāraṇyaka",
+    "meaning": "The 'Great Forest' Upaniṣad; the longest and one of the oldest principal Upaniṣads (Śukla Yajurveda).",
+    "category": "Texts",
+    "etymology": "bṛhat (great) + āraṇyaka (forest-treatise)"
+  },
+  {
+    "term": "Buddhi",
+    "devanagari": "बुद्धि",
+    "iast": "buddhi",
+    "meaning": "Discriminative intellect; higher executive faculty capable of discernment, wisdom, and decision-making.",
+    "category": "Faculties",
+    "etymology": "Root budh- (to awake, perceive)"
+  },
+  {
+    "term": "Chāndogya",
+    "devanagari": "छान्दोग्य",
+    "iast": "chāndogya",
+    "meaning": "Major ancient Upaniṣad belonging to the Sāmaveda, renowned for 'Tat Tvam Asi' and the Nārada-Sanatkumāra dialogue.",
+    "category": "Texts",
+    "etymology": "chandas (sacred meter) + ga (singer)"
+  },
+  {
+    "term": "Citta",
+    "devanagari": "चित्त",
+    "iast": "citta",
+    "meaning": "Mind-stuff; the repository of memory, subconscious impressions (saṃskāras), and cognitive flux.",
+    "category": "Faculties",
+    "etymology": "Root cit- (to perceive, think)"
+  },
+  {
+    "term": "Dama",
+    "devanagari": "दम",
+    "iast": "dama",
+    "meaning": "Restraint of the external sensory organs; sensory discipline preventing compulsive reactivity.",
+    "category": "Core Virtues",
+    "etymology": "Root dam- (to tame, restrain)"
+  },
+  {
+    "term": "Dayā",
+    "devanagari": "दया",
+    "iast": "dayā",
+    "meaning": "Compassion, tender empathy toward suffering beings; one of the three thunder-commands.",
+    "category": "Core Virtues",
+    "etymology": "Root day- (to partake, pity)"
+  },
+  {
+    "term": "Dāna",
+    "devanagari": "दान",
+    "iast": "dāna",
+    "meaning": "Generosity, charitable giving; detachment from possessive hoarding.",
+    "category": "Core Virtues",
+    "etymology": "Root dā- (to give)"
+  },
+  {
+    "term": "Dhairya",
+    "devanagari": "धैर्य",
+    "iast": "dhairya",
+    "meaning": "Fortitude, calm resilience, unshakable inner composure born of spiritual wisdom.",
+    "category": "Core Virtues",
+    "etymology": "From dhīra (steady, wise, calm)"
+  },
+  {
+    "term": "Dhīra",
+    "devanagari": "धीर",
+    "iast": "dhīra",
+    "meaning": "The steadfast, wise person who remains unshaken amidst pleasures and distress.",
+    "category": "Core Virtues",
+    "etymology": "From dhī (intellect) + rā (to possess)"
+  },
+  {
+    "term": "Dvaita",
+    "devanagari": "द्वैत",
+    "iast": "dvaita",
+    "meaning": "Dualism; philosophical school founded by Madhvācārya holding eternal distinction between God, soul, and world.",
+    "category": "Philosophical Schools",
+    "etymology": "dvi (two)"
+  },
+  {
+    "term": "Guru",
+    "devanagari": "गुरु",
+    "iast": "guru",
+    "meaning": "Spiritual teacher who dispels darkness; guide on the contemplative journey.",
+    "category": "Tradition",
+    "etymology": "gu (darkness) + ru (dispeller)"
+  },
+  {
+    "term": "Indriya",
+    "devanagari": "इन्द्रिय",
+    "iast": "indriya",
+    "meaning": "Sense organ; five cognitive senses (jñānendriya) and five active organs (karmendriya).",
+    "category": "Faculties",
+    "etymology": "Related to Indra (power, sovereign)"
+  },
+  {
+    "term": "Īśā",
+    "devanagari": "ईशा",
+    "iast": "īśā",
+    "meaning": "The 'Lord' Upaniṣad; brief 18-verse opening of the Śukla Yajurveda Saṃhitā emphasizing engaged renunciation.",
+    "category": "Texts",
+    "etymology": "īś (to rule, govern)"
+  },
+  {
+    "term": "Jāgrat",
+    "devanagari": "जाग्रत्",
+    "iast": "jāgrat",
+    "meaning": "The waking state of consciousness; outward sensory perception of the gross physical realm.",
+    "category": "States of Mind",
+    "etymology": "Root jāgṛ- (to be awake)"
+  },
+  {
+    "term": "Jīva",
+    "devanagari": "जीव",
+    "iast": "jīva",
+    "meaning": "The empirical individual living soul, temporarily conditioned by body and mind.",
+    "category": "Metaphysics",
+    "etymology": "Root jīv- (to live)"
+  },
+  {
+    "term": "Jñāna",
+    "devanagari": "ज्ञान",
+    "iast": "jñāna",
+    "meaning": "Transformative direct wisdom or spiritual realization, distinguished from factual accumulation.",
+    "category": "Epistemology",
+    "etymology": "Root jñā- (to know)"
+  },
+  {
+    "term": "Karma",
+    "devanagari": "कर्म",
+    "iast": "karma",
+    "meaning": "Action, deed; also the psychodynamic law of moral cause and effect.",
+    "category": "Ethics",
+    "etymology": "Root kṛ- (to do, act)"
+  },
+  {
+    "term": "Kaṭha",
+    "devanagari": "कठ",
+    "iast": "kaṭha",
+    "meaning": "Principal Upaniṣad telling the story of Nachiketa and Yama, containing the chariot allegory.",
+    "category": "Texts",
+    "etymology": "Name of a Vedic sage / recension"
+  },
+  {
+    "term": "Kena",
+    "devanagari": "केन",
+    "iast": "kena",
+    "meaning": "Principal Upaniṣad opening with 'By whom impelled?'; investigates the conscious power behind the senses.",
+    "category": "Texts",
+    "etymology": "kena (by whom?)"
+  },
+  {
+    "term": "Kośa",
+    "devanagari": "कोश",
+    "iast": "kośa",
+    "meaning": "Sheath or layer enveloping the pure Self in the Taittirīya psychological model.",
+    "category": "Pañcakośa",
+    "etymology": "kośa (sheath, scabbard, treasure)"
+  },
+  {
+    "term": "Madhva",
+    "devanagari": "मध्व",
+    "iast": "madhva",
+    "meaning": "13th-century philosopher-theologian who founded the Dvaita (dualist) school of Vedānta.",
+    "category": "Philosophers",
+    "etymology": "Personal name"
+  },
+  {
+    "term": "Mahāvākya",
+    "devanagari": "महावाक्य",
+    "iast": "mahāvākya",
+    "meaning": "Great spiritual proclamation; four premier statements in the Upaniṣads declaring non-duality.",
+    "category": "Metaphysics",
+    "etymology": "mahā (great) + vākya (sentence)"
+  },
+  {
+    "term": "Maitrī",
+    "devanagari": "मैत्री",
+    "iast": "maitrī",
+    "meaning": "Late classical Upaniṣad known for profound psychological analysis of mind and yogic breath regulation.",
+    "category": "Texts",
+    "etymology": "From sage Mitra / Maitri"
+  },
+  {
+    "term": "Manana",
+    "devanagari": "मनन",
+    "iast": "manana",
+    "meaning": "Rigorous rational reflection and intellectual examination to resolve doubts regarding sacred teachings.",
+    "category": "Methodology",
+    "etymology": "Root man- (to think, reflect)"
+  },
+  {
+    "term": "Manas",
+    "devanagari": "मनस्",
+    "iast": "manas",
+    "meaning": "The lower emotional and sensory mind; processes incoming sense data and oscillates in desires.",
+    "category": "Faculties",
+    "etymology": "Root man- (to think)"
+  },
+  {
+    "term": "Manomaya Kośa",
+    "devanagari": "मनोमयकोश",
+    "iast": "manomaya-kośa",
+    "meaning": "The mental/emotional sheath consisting of reactive thought, desire, and feelings.",
+    "category": "Pañcakośa",
+    "etymology": "manas + maya + kośa"
+  },
+  {
+    "term": "Māṇḍūkya",
+    "devanagari": "माण्डूक्य",
+    "iast": "māṇḍūkya",
+    "meaning": "Condensed 12-verse Upaniṣad analyzing OM and the four states of consciousness (waking, dream, deep sleep, Turīya).",
+    "category": "Texts",
+    "etymology": "From sage Maṇḍūka"
+  },
+  {
+    "term": "Māyā",
+    "devanagari": "माया",
+    "iast": "māyā",
+    "meaning": "The creative power of projection; the empirical world of appearance that conceals non-dual truth.",
+    "category": "Metaphysics",
+    "etymology": "Root mā- (to measure, fashion)"
+  },
+  {
+    "term": "Mokṣa",
+    "devanagari": "मोक्ष",
+    "iast": "mokṣa",
+    "meaning": "Liberation from ignorance, limitation, and the cycle of suffering; the supreme human goal.",
+    "category": "Soteriology",
+    "etymology": "Root muc- (to free, release)"
+  },
+  {
+    "term": "Mukhya Upaniṣad",
+    "devanagari": "मुख्य उपनिषद्",
+    "iast": "mukhya-upaniṣad",
+    "meaning": "The principal 10 to 13 ancient Upaniṣads commented upon by Śaṅkarācārya.",
+    "category": "Tradition",
+    "etymology": "mukhya (principal, foremost)"
+  },
+  {
+    "term": "Muṇḍaka",
+    "devanagari": "मुण्डक",
+    "iast": "muṇḍaka",
+    "meaning": "Principal Upaniṣad (Atharvaveda) containing the 'Two Birds' allegory and 'Satyam eva jayate'.",
+    "category": "Texts",
+    "etymology": "muṇḍa (shaven head; symbol of renunciation)"
+  },
+  {
+    "term": "Nididhyāsana",
+    "devanagari": "निदिध्यासन",
+    "iast": "nididhyāsana",
+    "meaning": "Deep meditative assimilation; resting continuously in non-dual realization until it becomes spontaneous baseline.",
+    "category": "Methodology",
+    "etymology": "Intensive form of dhyāna (meditation)"
+  },
+  {
+    "term": "OM / Praṇava",
+    "devanagari": "ॐ / प्रणव",
+    "iast": "oṃ / praṇava",
+    "meaning": "The primordial sacred syllable representing the totality of consciousness across all dimensions of time.",
+    "category": "Mantras",
+    "etymology": "pra-nu (to hum, praise)"
+  },
+  {
+    "term": "Pañcakośa",
+    "devanagari": "पञ्चकोश",
+    "iast": "pañcakośa",
+    "meaning": "The five sheaths of human personality (Annamaya, Prāṇamaya, Manomaya, Vijñānamaya, Ānandamaya).",
+    "category": "Pañcakośa",
+    "etymology": "pañca (five) + kośa (sheaths)"
+  },
+  {
+    "term": "Prajñānam",
+    "devanagari": "प्रज्ञानम्",
+    "iast": "prajñānam",
+    "meaning": "Pure Awareness, luminous wisdom; consciousness as the foundation of all reality (Aitareya Up.).",
+    "category": "Epistemology",
+    "etymology": "pra- (forward/deep) + jñāna (knowing)"
+  },
+  {
+    "term": "Prāṇa",
+    "devanagari": "प्राण",
+    "iast": "prāṇa",
+    "meaning": "Vital life-force; biological and psychic breath that animates physical and emotional functions.",
+    "category": "Physiology",
+    "etymology": "pra- + an- (to breathe forth)"
+  },
+  {
+    "term": "Prāṇamaya Kośa",
+    "devanagari": "प्राणमयकोश",
+    "iast": "prāṇamaya-kośa",
+    "meaning": "The vital energy sheath consisting of the five physiological breaths and autonomic life currents.",
+    "category": "Pañcakośa",
+    "etymology": "prāṇa + maya + kośa"
+  },
+  {
+    "term": "Prasthānatrayī",
+    "devanagari": "प्रस्थानत्रयी",
+    "iast": "prasthānatrayī",
+    "meaning": "The three canonical foundations of Vedānta: Upaniṣads (Śruti), Bhagavad Gītā (Smṛti), and Brahma Sūtras (Nyāya).",
+    "category": "Tradition",
+    "etymology": "prasthāna (departure/foundation) + trayī (triad)"
+  },
+  {
+    "term": "Preyas",
+    "devanagari": "प्रेयस्",
+    "iast": "preyas",
+    "meaning": "The pleasant, immediate gratification; worldly indulgence that seems attractive but leads to bondage.",
+    "category": "Ethics",
+    "etymology": "Comparative of priya (dear, pleasing)"
+  },
+  {
+    "term": "Rāmānuja",
+    "devanagari": "रामानुज",
+    "iast": "rāmānuja",
+    "meaning": "11th-century theologian-philosopher who founded the Viśiṣṭādvaita (qualified non-dualism) school.",
+    "category": "Philosophers",
+    "etymology": "Personal name"
+  },
+  {
+    "term": "Ṛṣi",
+    "devanagari": "ऋषि",
+    "iast": "ṛṣi",
+    "meaning": "Seer, sage; ancient contemplative poet who directly perceived eternal cosmic truths.",
+    "category": "Tradition",
+    "etymology": "Root ṛṣ- (to see, flow)"
+  },
+  {
+    "term": "Sākṣī",
+    "devanagari": "साक्षी",
+    "iast": "sākṣī",
+    "meaning": "The pure witness; transcendent observing consciousness that notices all thoughts and emotions without involvement.",
+    "category": "Metaphysics",
+    "etymology": "sa-akṣi (with the eye / direct observer)"
+  },
+  {
+    "term": "Samādhāna",
+    "devanagari": "समाधान",
+    "iast": "samādhāna",
+    "meaning": "Single-pointed mental focus; integration of cognitive faculties upon spiritual truth.",
+    "category": "Core Virtues",
+    "etymology": "sam-ā-dhā (to collect, settle)"
+  },
+  {
+    "term": "Saṃsāra",
+    "devanagari": "संसार",
+    "iast": "saṃsāra",
+    "meaning": "The endless wandering cycle of mundane existence, birth, death, and existential friction.",
+    "category": "Metaphysics",
+    "etymology": "sam-sṛ (to flow together, wander)"
+  },
+  {
+    "term": "Satya",
+    "devanagari": "सत्य",
+    "iast": "satya",
+    "meaning": "Truth, reality; unvarnished truthfulness in thought, word, and action; ontological reality.",
+    "category": "Ethics",
+    "etymology": "From sat (being, reality)"
+  },
+  {
+    "term": "Śama",
+    "devanagari": "शम",
+    "iast": "śama",
+    "meaning": "Tranquility, mastery of mental agitations; down-regulation of internal emotional churn.",
+    "category": "Core Virtues",
+    "etymology": "Root śam- (to be quiet, cease)"
+  },
+  {
+    "term": "Śaṅkara",
+    "devanagari": "शङ्कर",
+    "iast": "śaṅkara",
+    "meaning": "Adi Śaṅkarācārya (c. 8th century CE), premier philosopher-reformer of Advaita Vedānta.",
+    "category": "Philosophers",
+    "etymology": "śam (auspiciousness) + kara (maker)"
+  },
+  {
+    "term": "Śiṣya",
+    "devanagari": "शिष्य",
+    "iast": "śiṣya",
+    "meaning": "Student, disciple; earnest seeker under the guidance of a spiritual teacher.",
+    "category": "Tradition",
+    "etymology": "Root śās- (to instruct, guide)"
+  },
+  {
+    "term": "Śraddhā",
+    "devanagari": "श्रद्धा",
+    "iast": "śraddhā",
+    "meaning": "Existential trust, deep conviction in truth, sincere intellectual and spiritual faith.",
+    "category": "Core Virtues",
+    "etymology": "śrat (heart, truth) + dhā (to place)"
+  },
+  {
+    "term": "Śravaṇa",
+    "devanagari": "श्रवण",
+    "iast": "śravaṇa",
+    "meaning": "Attentive listening; receptive, open absorption of sacred philosophical wisdom from teachers and texts.",
+    "category": "Methodology",
+    "etymology": "Root śru- (to hear)"
+  },
+  {
+    "term": "Śreyas",
+    "devanagari": "श्रेयस्",
+    "iast": "śreyas",
+    "meaning": "The good, highest welfare; spiritual excellence and enduring wisdom (contrasted with Preyas).",
+    "category": "Ethics",
+    "etymology": "Comparative of śrī (auspicious, noble)"
+  },
+  {
+    "term": "Śruti",
+    "devanagari": "श्रुति",
+    "iast": "śruti",
+    "meaning": "That which is directly heard; primordial revealed literature consisting of the Vedas and Upaniṣads.",
+    "category": "Tradition",
+    "etymology": "Root śru- (to hear)"
+  },
+  {
+    "term": "Sthitaprajña",
+    "devanagari": "स्थितप्रज्ञ",
+    "iast": "sthitaprajña",
+    "meaning": "Person of steady, unshakeable wisdom who remains balanced in joy and grief (Bhagavad Gītā 2.54–72).",
+    "category": "Core Virtues",
+    "etymology": "sthita (firm, established) + prajñā (wisdom)"
+  },
+  {
+    "term": "Suṣupti",
+    "devanagari": "सुषुप्ति",
+    "iast": "suṣupti",
+    "meaning": "The deep, dreamless sleep state; temporary dissolution of mental objects into undifferentiated peace.",
+    "category": "States of Mind",
+    "etymology": "su- (well) + svap- (to sleep)"
+  },
+  {
+    "term": "Svapna",
+    "devanagari": "स्वप्न",
+    "iast": "svapna",
+    "meaning": "The dreaming state of consciousness; inner subjective creation of subtle mental worlds.",
+    "category": "States of Mind",
+    "etymology": "Root svap- (to sleep)"
+  },
+  {
+    "term": "Tapas",
+    "devanagari": "तपस्",
+    "iast": "tapas",
+    "meaning": "Spiritual heat, disciplined inquiry, focused contemplative austerity.",
+    "category": "Methodology",
+    "etymology": "Root tap- (to burn, generate heat)"
+  },
+  {
+    "term": "Titikṣā",
+    "devanagari": "तितिक्षा",
+    "iast": "titikṣā",
+    "meaning": "Patient endurance; capacity to bear pairs of opposites (heat/cold, praise/censure) without mental collapse or retaliation.",
+    "category": "Core Virtues",
+    "etymology": "Desiderative of sah- (to bear, endure)"
+  },
+  {
+    "term": "Turīya",
+    "devanagari": "तुरीय",
+    "iast": "turīya",
+    "meaning": "The Fourth; unconditioned witnessing consciousness underlying and illuminating waking, dream, and deep sleep.",
+    "category": "States of Mind",
+    "etymology": "catur (four) -> turīya (fourth)"
+  },
+  {
+    "term": "Upaniṣad",
+    "devanagari": "उपनिषद्",
+    "iast": "upaniṣad",
+    "meaning": "Sitting near a teacher with devotion; secret spiritual wisdom that loosens bondage and destroys ignorance.",
+    "category": "Tradition",
+    "etymology": "upa (near) + ni (down) + sad (to sit / to loosen)"
+  },
+  {
+    "term": "Uparati",
+    "devanagari": "उपरति",
+    "iast": "uparati",
+    "meaning": "Quiet withdrawal from worldly busyness; psychological detachment from sensory distractions.",
+    "category": "Core Virtues",
+    "etymology": "upa + ram- (to cease, delight within)"
+  },
+  {
+    "term": "Vijñānamaya Kośa",
+    "devanagari": "विज्ञानमयकोश",
+    "iast": "vijñānamaya-kośa",
+    "meaning": "The intellectual sheath consisting of discriminative intellect (buddhi) and reflective wisdom.",
+    "category": "Pañcakośa",
+    "etymology": "vi-jñāna (discernment) + maya + kośa"
+  },
+  {
+    "term": "Viśiṣṭādvaita",
+    "devanagari": "विशिष्टाद्वैत",
+    "iast": "viśiṣṭādvaita",
+    "meaning": "Qualified non-dualism; school of Vedānta expounded by Rāmānuja wherein souls and world form the body of God.",
+    "category": "Philosophical Schools",
+    "etymology": "viśiṣṭa (qualified) + advaita"
+  },
+  {
+    "term": "Viveka",
+    "devanagari": "विवेक",
+    "iast": "viveka",
+    "meaning": "Discrimination; the capacity to distinguish the permanent from the impermanent, Self from non-Self.",
+    "category": "Core Virtues",
+    "etymology": "Root vic- (to sift, separate)"
+  },
+  {
+    "term": "Yoga",
+    "devanagari": "योग",
+    "iast": "yoga",
+    "meaning": "Union; steady control of the mind and senses (Kaṭha 2.3.11); integration of consciousness.",
+    "category": "Methodology",
+    "etymology": "Root yuj- (to yoke, unite)"
+  }
+]

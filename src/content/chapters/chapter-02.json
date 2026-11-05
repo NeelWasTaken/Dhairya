@@ -1,0 +1,58 @@
+{
+  "id": 2,
+  "devanagariNumeral": "२",
+  "title": "The Upanishads",
+  "subtitle": "Context, Corpus, and the Tradition of Sitting Near",
+  "sanskritTitle": "उपनिषद् — परिचयः",
+  "epigraph": "उप-नि-षद् — to sit down near: the posture of one who draws close to receive wisdom.",
+  "content": [
+    {
+      "type": "prose",
+      "text": "The word 'Upaniṣad' is traditionally derived from the Sanskrit roots upa (near), ni (down), and √sad (to sit). To study an Upaniṣad is, etymologically, to sit down near the teacher — an image that captures the intimate, oral, and relational character of these texts. Śaṅkara, in his introduction to the Kaṭha Upaniṣad Bhāṣya, offers a different etymology: he connects the word to the root √sad in the sense of 'to destroy' or 'to loosen,' suggesting that Upaniṣad means 'that which destroys ignorance' (avidyā-nivṛtti). Both etymologies illuminate. The Upanishads are texts of proximity and dismantling — one draws near in order to have one's assumptions undone."
+    },
+    {
+      "type": "prose",
+      "text": "Historically, the Upanishads emerge from the later stratum of Vedic literature. The four Vedas — Ṛg, Sāma, Yajur, and Atharva — each contain several layers: Saṃhitā (hymns), Brāhmaṇa (ritual commentary), Āraṇyaka (forest treatises), and Upaniṣad (philosophical dialogue). The Upanishads thus represent the culmination of Vedic thought, which is why they are also called Vedānta — 'the end of the Veda,' both in the sense of chronological finale and philosophical summit. The earliest Upanishads — the Bṛhadāraṇyaka and Chāndogya — are generally dated by modern scholarship to roughly 800–600 BCE, though as Olivelle (1996) cautions, all such dates are approximate and contested. The later principal Upanishads (Kaṭha, Śvetāśvatara, Muṇḍaka, Māṇḍūkya, Praśna, Maitrī) may date from 500–200 BCE."
+    },
+    {
+      "type": "prose",
+      "text": "The Indian philosophical tradition recognises a core set of 'principal' or 'major' Upanishads (mukhya upaniṣad). The most common list, defined by the criterion of which texts Śaṅkara composed commentaries upon, includes ten: Īśā, Kena, Kaṭha, Praśna, Muṇḍaka, Māṇḍūkya, Taittirīya, Aitareya, Chāndogya, and Bṛhadāraṇyaka. Some lists add the Śvetāśvatara, Kauṣītaki, and Maitrī, bringing the count to thirteen. Beyond these, hundreds of later Upanishads exist — the Muktikā canon lists 108 — but these are generally regarded as later compositions, many dating to the medieval period and often sectarian in character."
+    },
+    {
+      "type": "prose",
+      "text": "In the Vedānta tradition, the Upanishads form one leg of the Prasthānatrayī — the 'three sources' of authority. The other two are the Brahmasūtra of Bādarāyaṇa (a systematic philosophical treatise, roughly 2nd century BCE) and the Bhagavadgītā (which, though part of the epic Mahābhārata and thus technically Smṛti rather than Śruti, was elevated to scriptural status by all major Vedānta commentators). The three great Vedānta ācāryas — Śaṅkara (8th century CE), Rāmānuja (11th century), and Madhva (13th century) — each composed commentaries on all three, arriving at profoundly different conclusions. Śaṅkara's Advaita (non-dualism) holds that Ātman and Brahman are absolutely identical and the world of multiplicity is ultimately unreal (māyā). Rāmānuja's Viśiṣṭādvaita (qualified non-dualism) maintains that individual selves are real but exist as attributes (viśeṣaṇa) of Brahman. Madhva's Dvaita (dualism) insists on an eternal distinction between God, souls, and matter. These differences are not marginal; they shape every reading of the Upanishadic verses we will encounter in this project."
+    },
+    {
+      "type": "prose",
+      "text": "The pedagogical setting of the Upanishads is distinctive. These are not monologues but dialogues — between Yājñavalkya and Maitreyī, Uddālaka and Śvetaketu, Nachiketa and Yama, Nārada and Sanatkumāra. The questions are existential: What happens at death? What is the Self? What is the nature of fear? The teacher does not simply inform; the teacher provokes inquiry. The student is expected not merely to hear (śravaṇa) but to reflect (manana) and to meditate until the teaching becomes direct experience (nididhyāsana). This three-fold practice — hearing, reflection, assimilation — is itself a model of deep learning that, as we shall see, has structural parallels with modern theories of transformative learning (Mezirow, 1991)."
+    },
+    {
+      "type": "prose",
+      "text": "For the purposes of this project, we draw primarily on the ten principal Upanishads with Śaṅkara's commentaries as the default interpretive lens, while noting Rāmānuja's and Madhva's readings where they differ significantly. We rely on Olivelle (1996) and Radhakrishnan (1953) as primary English references, with Max Müller's Sacred Books of the East translations (1879, 1884) as a public-domain baseline. All verse translations offered here are the author's own renderings, clearly marked as such, and informed by but not copied from these scholarly sources."
+    },
+    {
+      "type": "resilience_insight",
+      "title": "Why Lineage Matters for Resilience",
+      "text": "The Upanishadic model of learning — sitting near, receiving, reflecting — suggests that resilience-building is not a solitary project. The guru-śiṣya relationship presupposes that the capacity to face existential questions (including suffering, death, and the nature of the self) is cultivated within relationship. Modern resilience research converges on this: Masten (2001) identifies supportive relationships as one of the most robust protective factors across cultures and contexts. The Upanishads embed this insight in their very structure."
+    },
+    {
+      "type": "modern_parallel",
+      "title": "Transformative Learning Theory",
+      "text": "Jack Mezirow's (1991) theory of transformative learning describes a process in which a 'disorienting dilemma' prompts critical reflection on one's assumptions, leading to a shift in perspective. The Upanishadic pedagogy follows a strikingly similar arc: the student arrives with assumptions (Nachiketa believes his father's sacrifice is valid; Śvetaketu believes he is learned), encounters a disorienting challenge (death, ignorance), and through guided inquiry arrives at a transformed understanding. The parallel is structural, not historical — Mezirow did not draw on Indian sources — but it suggests that deep learning across traditions shares a common architecture of disruption and reintegration."
+    },
+    {
+      "type": "reflect",
+      "prompt": "Who have been your teachers — not just in formal education, but in life? Whose proximity changed how you understood yourself? The Upanishadic tradition suggests that certain kinds of knowledge can only be received in relationship. Does this ring true in your experience?"
+    }
+  ],
+  "sources": [
+    "Olivelle, Patrick. Upaniṣads. Oxford University Press, 1996. (Introduction, pp. xxiii–lvi.)",
+    "Radhakrishnan, S. The Principal Upanishads. George Allen & Unwin, 1953.",
+    "Müller, F. Max. The Upanishads. Sacred Books of the East, Vols. 1 & 15. 1879, 1884.",
+    "Śaṅkara. Kaṭha Upaniṣad Bhāṣya (Introduction).",
+    "Mezirow, Jack. Transformative Dimensions of Adult Learning. Jossey-Bass, 1991.",
+    "Masten, Ann. 'Ordinary Magic.' American Psychologist 56.3 (2001): 227–238.",
+    "Muktikā Upaniṣad (canon of 108 Upanishads)."
+  ],
+  "wordCount": 860
+}

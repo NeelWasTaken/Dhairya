@@ -1,0 +1,88 @@
+{
+  "sages": [
+    {
+      "id": "nachiketa",
+      "name": "Nachiketa",
+      "sanskrit": "नचिकेता",
+      "title": "The Seeker Who Refused Death's Bribes",
+      "source": "Kaṭha Upaniṣad",
+      "date": "c. 5th – 4th century BCE",
+      "bio": "A courageous boy who questioned his father's insincere sacrificial offerings, was sent to the abode of Death, waited three days without food, and refused worldly empires in exchange for the secret of the immortal Self.",
+      "keyVerse": "Kaṭha 1.3.14 — 'uttiṣṭhata jāgrata prāpya varān nibodhata' (Arise, awake! Seek the great teachers and realize the Self.)",
+      "resilienceLesson": "Existential clarity: when you value ultimate truth over temporary comfort, fear of loss and death ceases to hold leverage over your decisions.",
+      "tags": ["Courage", "Discernment", "Purpose"]
+    },
+    {
+      "id": "yajnavalkya",
+      "name": "Yājñavalkya",
+      "sanskrit": "याज्ञवल्क्य",
+      "title": "The Master of the Non-Dual Ground",
+      "source": "Bṛhadāraṇyaka Upaniṣad",
+      "date": "c. 8th – 7th century BCE",
+      "bio": "The foremost philosophical luminary of King Janaka's assembly. Formulated the negative dialectic 'Neti, Neti' (not this, not this) to reveal the luminous witness that cannot be objectified.",
+      "keyVerse": "Bṛhadāraṇyaka 3.8.11 — 'tad vā etad akṣaraṃ gārgy adṛṣṭaṃ draṣṭṛ' (That Imperishable, O Gārgī, is unseen but the seer, unheard but the hearer.)",
+      "resilienceLesson": "Detachment through understanding: pain belongs to the objectified world; the observing Self remains self-luminous and untouchable.",
+      "tags": ["Witness Consciousness", "Neti Neti", "Non-duality"]
+    },
+    {
+      "id": "maitreyi",
+      "name": "Maitreyī",
+      "sanskrit": "मैत्रेयी",
+      "title": "The Sage Who Rejected Gold for Immortality",
+      "source": "Bṛhadāraṇyaka Upaniṣad 2.4 & 4.5",
+      "date": "c. 8th – 7th century BCE",
+      "bio": "Philosophical companion of Yājñavalkya. When offered her share of worldly wealth upon his retirement to the forest, she famously replied: 'What will not make me immortal, what should I do with that?'",
+      "keyVerse": "Bṛhadāraṇyaka 2.4.5 — 'ātmani khalv are dṛṣṭe śrute mate vijñāte idaṃ sarvaṃ viditam' (When the Self is seen, heard, reflected upon, and known, all this is understood.)",
+      "resilienceLesson": "True security: material wealth offers comfort but zero immunity from existential sorrow. Only knowing one's true nature provides imperishable peace.",
+      "tags": ["Women Sages", "Immortality", "Values"]
+    },
+    {
+      "id": "gargi",
+      "name": "Gārgī Vācaknavī",
+      "sanskrit": "गार्गी वाचक्नवी",
+      "title": "The Fearless Cosmic Interrogator",
+      "source": "Bṛhadāraṇyaka Upaniṣad 3.6 & 3.8",
+      "date": "c. 8th – 7th century BCE",
+      "bio": "The brilliant daughter of sage Vacaknu who stood alone before an all-male royal debate and interrogated Yājñavalkya on the cosmic warp and woof of space, pressing the boundaries until warned her head might shatter.",
+      "keyVerse": "Bṛhadāraṇyaka 3.8.8 — 'etad vai tad akṣaraṃ gārgi brāhmaṇā abhivadanty asthūlam anaṇu' (This is that Imperishable, Gārgī, which knowers of Brahman call neither gross nor subtle.)",
+      "resilienceLesson": "Intellectual bravery: the resilience to question authority, pursue difficult truths without timidity, and hold space for uncomfortable cosmic inquiry.",
+      "tags": ["Intellectual Courage", "Debate", "Cosmology"]
+    },
+    {
+      "id": "uddalaka",
+      "name": "Uddālaka Āruṇi",
+      "sanskrit": "उद्दालक आरुणि",
+      "title": "The Empirical Sage of Oneness",
+      "source": "Chāndogya Upaniṣad 6",
+      "date": "c. 7th – 6th century BCE",
+      "bio": "The wise father who taught his proud son Śvetaketu through 9 intuitive, natural experiments: dissolving salt in water, splitting the microscopic seed of a banyan tree, and tracing bees gathering honey from many flowers.",
+      "keyVerse": "Chāndogya 6.8.7 — 'sa ya eṣo 'ṇimaitad ātmyam idaṃ sarvaṃ tat satyaṃ sa ātmā tat tvam asi śvetaketo' (That subtle essence is the Self of all this; that is the Real; that is the Self; That Thou Art, Śvetaketu.)",
+      "resilienceLesson": "Inherent belonging: you are not an isolated island battling an alien universe; you are the fabric of reality itself expressing a temporary wave.",
+      "tags": ["Tat Tvam Asi", "Belonging", "Nature Metaphors"]
+    },
+    {
+      "id": "satyakama",
+      "name": "Satyakāma Jābāla",
+      "sanskrit": "सत्यकाम जाबाल",
+      "title": "The Boy Whose Lineage Was Truth",
+      "source": "Chāndogya Upaniṣad 4.4",
+      "date": "c. 7th – 6th century BCE",
+      "bio": "A boy of unknown paternity whose mother Jabālā told him to state truthfully that he did not know his caste. Sage Gautama accepted him immediately as a true Brahmin, declaring: 'None but a lover of truth could speak thus.'",
+      "keyVerse": "Chāndogya 4.4.5 — 'naitad abrāhmaṇo vivaktum arhati samidhaṃ saumyāharopa tvā neṣye na satyād agāḥ' (No non-Brahmin could speak such unvarnished truth; bring the fuel, my son, I will initiate you.)",
+      "resilienceLesson": "Radical authenticity: true self-worth and resilience are rooted in unwavering honesty, not social pedigree, external validation, or inherited status.",
+      "tags": ["Truthfulness", "Social Dignity", "Self-Worth"]
+    },
+    {
+      "id": "svetaketu",
+      "name": "Śvetaketu",
+      "sanskrit": "श्वेतकेतु",
+      "title": "From Intellectual Arrogance to Self-Knowledge",
+      "source": "Chāndogya Upaniṣad 6",
+      "date": "c. 7th – 6th century BCE",
+      "bio": "Returned home after 12 years of formal study proud and stiff-necked with scholastic conceit. His father Uddālaka humbled his ego with a single question: 'Did you ask for that instruction by which the unhearable becomes heard?'",
+      "keyVerse": "Chāndogya 6.1.3 — 'yenāśrutaṃ śrutaṃ bhavatyamataṃ matamavijñātaṃ vijñātam' (By which that which is not heard becomes heard, what is not thought becomes thought.)",
+      "resilienceLesson": "Epistemic humility: accumulating intellectual credentials does not heal vulnerability; resilience begins when conceit yields to genuine inner inquiry.",
+      "tags": ["Humility", "Education", "Transformation"]
+    }
+  ]
+}

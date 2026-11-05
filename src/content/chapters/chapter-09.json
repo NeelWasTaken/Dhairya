@@ -1,0 +1,66 @@
+{
+  "id": 9,
+  "devanagariNumeral": "९",
+  "title": "Five Sheaths",
+  "subtitle": "The Pañcakośa Model and Resilience Across Dimensions (Taittirīya Upaniṣad)",
+  "sanskritTitle": "पञ्चकोशविवेकः",
+  "epigraph": "तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः — From this Self, space arose. (Taittirīya 2.1.1, author's rendering)",
+  "content": [
+    {
+      "type": "prose",
+      "text": "The Taittirīya Upaniṣad, in its Brahmānanda Vallī (second chapter), offers one of the most systematic models of the human person in all of Indian philosophy: the Pañcakośa — the Five Sheaths. The model describes the self as layered, like concentric shells or sheaths (kośa), each progressively subtler, each enveloping and pervading the one before it. At the centre — or rather, as the ground of all five — lies the Ātman, which is not itself a sheath but that which the sheaths conceal and express."
+    },
+    {
+      "type": "prose",
+      "text": "The five sheaths are: (1) Annamaya kośa — the sheath made of food (anna), i.e., the physical body. This is the most tangible layer of selfhood: bone, muscle, organ, tissue, nourished by food and returning to food at death. 'From food beings are born; by food, once born, they grow' (2.2.1, author's rendering). (2) Prāṇamaya kośa — the sheath made of vital breath (prāṇa). This is the energetic body: the five prāṇas (prāṇa, apāna, vyāna, udāna, samāna) that govern respiration, digestion, circulation, and all physiological processes. (3) Manomaya kośa — the sheath made of mind (manas). This is the mental body: the faculty of thought, emotion, imagination, and volition. (4) Vijñānamaya kośa — the sheath made of discernment (vijñāna). This is the intellective body: the faculty of discrimination, judgment, and self-reflective awareness. Śaṅkara identifies this kośa with buddhi — the charioteer of the Kaṭha model. (5) Ānandamaya kośa — the sheath made of bliss (ānanda). This is the subtlest experiential layer: the deep contentment that is glimpsed in dreamless sleep, in moments of self-forgetful absorption, and — according to the tradition — in the direct intuition of Brahman."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "taittiriya-2-1-1"
+    },
+    {
+      "type": "prose",
+      "text": "Śaṅkara, in his Bhāṣya on the Taittirīya, is careful to point out that the Ātman is not identical with any of the five sheaths, including the ānandamaya kośa. Even bliss, as experienced, is a sheath — a covering that can obscure the pure being-awareness that lies 'within.' Rāmānuja, by contrast, reads the ānandamaya kośa as Brahman itself, not a mere sheath. This interpretive difference has significant implications for practice: in Śaṅkara's reading, even blissful experience must be transcended; in Rāmānuja's, bliss is the nature of the ultimate reality itself."
+    },
+    {
+      "type": "prose",
+      "text": "The Pañcakośa model can be mapped, with appropriate caution, onto a multi-dimensional model of resilience. Resilience is not a single faculty; it operates across domains. At the physical level (annamaya), resilience involves bodily health, adequate nutrition, sleep, and physical safety — the material foundations without which psychological resilience is severely compromised. At the energetic level (prāṇamaya), resilience involves the regulation of vitality: breathing patterns, energy management, the capacity to mobilise and recover. At the mental level (manomaya), resilience involves emotional regulation, cognitive flexibility, and the capacity to process adversity without being overwhelmed. At the intellective level (vijñānamaya), resilience involves meaning-making, self-reflective awareness, and the capacity to distinguish between productive and unproductive responses to difficulty. At the bliss level (ānandamaya), resilience involves access to deep contentment, purpose, and a sense of wholeness that transcends any particular circumstance."
+    },
+    {
+      "type": "prose",
+      "text": "The Taittirīya's third chapter — the Bhṛgu Vallī — enacts this progressive discovery dramatically. Bhṛgu, son of Varuṇa, asks his father: 'Teach me Brahman.' Varuṇa replies: 'That from which beings are born, by which they live, and into which they return — seek to know That. That is Brahman.' Varuṇa then adds: 'tapasā brahma vijijñāsasva — through tapas (focused effort, austerity, disciplined inquiry), seek to know Brahman' (3.1, author's rendering). Bhṛgu undertakes tapas and identifies Brahman successively with food, with prāṇa, with mind, with vijñāna, and finally with ānanda. Each identification is partial; each is surpassed. The structure mirrors the kośa model exactly: through disciplined inquiry, one moves inward from the grossest to the subtlest layer of experience."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "taittiriya-3-1-1"
+    },
+    {
+      "type": "prose",
+      "text": "For resilience practice, each sheath suggests a domain of care. Practices for annamaya kośa: attend to nutrition, movement, rest — the foundational physical conditions of psychological health. Practices for prāṇamaya kośa: conscious breathing (prāṇāyāma), energy management, awareness of the body's vital rhythms. Practices for manomaya kośa: journaling, emotional processing, cognitive reappraisal, and the cultivation of śama (inner calm). Practices for vijñānamaya kośa: viveka (discrimination) practice — regularly asking 'Is this response aligned with my deepest values, or is it reactive?', contemplative study (svādhyāya), and self-inquiry (ātma-vicāra). Practices for ānandamaya kośa: silence, meditation, immersion in beauty, gratitude — practices that reconnect one with the ground of contentment that precedes and outlasts circumstantial happiness."
+    },
+    {
+      "type": "resilience_insight",
+      "title": "Multi-Layered Resilience",
+      "text": "The Pañcakośa model implies that resilience collapse at one level (e.g., physical illness at the annamaya level) does not necessarily entail collapse at all levels. A person may be physically impaired yet mentally lucid, or emotionally turbulent yet grounded in a deep sense of meaning. Conversely, a breakdown in resilience at a subtler level — such as a loss of meaning (vijñānamaya) — can undermine functioning at all grosser levels. This multi-layered analysis resonates with socio-ecological models of resilience (Ungar, 2012) that emphasise the interplay between individual, relational, and contextual factors across multiple domains."
+    },
+    {
+      "type": "modern_parallel",
+      "title": "Biopsychosocial Models and the Kośas",
+      "text": "The biopsychosocial model (Engel, 1977), foundational to modern health psychology, proposes that health and illness are determined by the interaction of biological, psychological, and social factors. The Pañcakośa model can be read as an anticipation of this multi-level approach — though with two additions that the biopsychosocial model lacks: the energetic (prāṇamaya) and the bliss (ānandamaya) dimensions. Whether these additions represent genuine insights or metaphysical assumptions beyond empirical validation is a matter of perspective. What both models share is the insistence that no single level of analysis is sufficient: a complete account of human well-being — and resilience — must be multi-dimensional."
+    },
+    {
+      "type": "reflect",
+      "prompt": "Consider your own resilience across the five sheaths. Where are you strongest? Where are you most neglected? Is there a sheath — physical, energetic, mental, intellective, or experiential — that you tend to ignore? What would it mean to attend to all five as a unified practice of self-care?"
+    }
+  ],
+  "sources": [
+    "Taittirīya Upaniṣad 2.1–2.5 (Pañcakośa), 3.1–3.6 (Bhṛgu Vallī)",
+    "Śaṅkara. Taittirīya Upaniṣad Bhāṣya on 2.1–2.5.",
+    "Rāmānuja. Śrī Bhāṣya (interpretation of ānandamaya kośa).",
+    "Radhakrishnan, S. The Principal Upanishads. George Allen & Unwin, 1953.",
+    "Olivelle, Patrick. Upaniṣads. Oxford University Press, 1996.",
+    "Ungar, Michael. 'Social Ecologies and Their Contribution to Resilience.' The Social Ecology of Resilience. Springer, 2012.",
+    "Engel, George. 'The Need for a New Medical Model.' Science 196 (1977): 129–136."
+  ],
+  "wordCount": 980
+}

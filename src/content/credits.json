@@ -1,0 +1,39 @@
+{
+  "projectTitle": "Psychological Resilience in the Upanishads",
+  "projectSubtitle": "An Indian Knowledge System (IKS) Research Project",
+  "team": [
+    {
+      "name": "NEEL CHANEKAR",
+      "group": "leader",
+      "role": "",
+      "instagram": "https://www.instagram.com/aboutneeel/"
+    },
+    {
+      "name": "AASHI PANDYA",
+      "group": "member",
+      "role": ""
+    },
+    {
+      "name": "SRUSHTI GANJURE",
+      "group": "member",
+      "role": ""
+    },
+    {
+      "name": "SURAJ KALE",
+      "group": "member",
+      "role": ""
+    },
+    {
+      "name": "SHREYAL DAKHANE",
+      "group": "member",
+      "role": ""
+    }
+  ],
+  "acknowledgements": {
+    "scholars": "Primary translations and commentaries referenced: Adi Shankara (Bhasyas), Max Müller (Sacred Books of the East, vols. 1 & 15, 1879/1884), S. Radhakrishnan (The Principal Upanishads, 1953), Swami Nikhilananda, Prof. K. Ramakrishna Rao, and Bimal Krishna Matilal.",
+    "libraries": "Built with modern web technologies: React 19, TypeScript, Vite, Tailwind CSS, Three.js, React Three Fiber, Framer Motion, GSAP, and Lenis smooth scrolling.",
+    "typography": "Typefaces: Cinzel, Cormorant Garamond, Tiro Devanagari Sanskrit, IM Fell English.",
+    "disclaimer": "Sanskrit verses are drawn from traditional texts; renderings and interpretations are credited per verse."
+  },
+  "motto": "अंतः अस्ति प्रारंभः — The end is the beginning."
+}

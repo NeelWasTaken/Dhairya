@@ -1,0 +1,55 @@
+{
+  "id": 14,
+  "devanagariNumeral": "१४",
+  "title": "Women Sages & Dialectical Audacity: Maitreyī and Gārgī",
+  "subtitle": "Existential Discernment & The Courage to Interrogate Power",
+  "sanskritTitle": "येनाहं नामृता स्यां किमहं तेन कुर्याम्",
+  "epigraph": "सा होवाच मैत्रेयी येनाहं नामृता स्यां किमहं तेन कुर्याम् — What shall I do with that which cannot make me immortal?",
+  "content": [
+    {
+      "type": "prose",
+      "text": "The philosophical landscape of the older Upaniṣads—most prominently the majestic Bṛhadāraṇyaka—features an extraordinary presence of female philosopher-sages whose intellect, autonomy, and existential courage fundamentally challenge later stereotypes of Vedic patriarchal exclusivity. In the courts of royal debate and the intimacy of domestic renunciation, figures like Maitreyī and Gārgī Vācaknavī emerge not as decorative observers, but as formidable protagonists of philosophical inquiry."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "brhadaranyaka-2-4-5"
+    },
+    {
+      "type": "prose",
+      "text": "In Bṛhadāraṇyaka 2.4 (and recurring in 4.5), the sage Yājñavalkya announces his decision to embrace the monastic, wandering life (pravrajyā). Intending to divide his worldly estate between his two wives, Kātyāyanī and Maitreyī, he is stopped by Maitreyī's incisive discernment. Unlike Kātyāyanī, whom the text describes as possessing ordinary domestic wisdom ('strī-prajñā'), Maitreyī possesses the thirst for sacred discourse ('brahma-vādinī'). She asks directly: 'If this entire earth filled with boundless riches were mine, would it make me immortal?' When Yājñavalkya truthfully replies that wealth can secure material comfort but never immortality, Maitreyī utters one of the most luminous declarations in world literature: 'yenāhaṃ nāmṛtā syāṃ kim ahaṃ tena kuryām'—What shall I do with that which cannot grant me immortality? Tell me only of that which leads beyond decay."
+    },
+    {
+      "type": "prose",
+      "text": "Even more politically and intellectually daring is Gārgī Vācaknavī in the grand debate at the court of King Janaka of Videha (Bṛhadāraṇyaka 3.6 and 3.8). Janaka has offered a prize of one thousand cattle, their horns wrapped in gold, to the most illumined sage. Yājñavalkya arrogantly claims the cattle before the debate concludes, prompting a volley of interrogations from the assembled male priests. After several seasoned scholars are defeated and silenced, Gārgī steps forward twice to cross-examine Yājñavalkya."
+    },
+    {
+      "type": "verse_ref",
+      "verseId": "brhadaranyaka-3-8-8-10"
+    },
+    {
+      "type": "prose",
+      "text": "In chapter 3.8, Gārgī addresses the assembly with warrior-like confidence, declaring that she will test Yājñavalkya with two questions like a fierce hero of Kāśī or Videha stringing an unbending bow and rising with two pointed arrows. She interrogates him on the ontological warp and woof of reality: across what is the universe of space and time woven? When Yājñavalkya is driven to reveal the ultimate Imperishable ground—the Akṣara that is neither coarse nor fine, yet under whose sovereignty sun and moon hold their stations—Gārgī magnanimously turns to the male assembly and advises them to bow before Yājñavalkya, displaying an intellectual integrity that values truth above personal ego or competitive victory."
+    },
+    {
+      "type": "resilience_insight",
+      "title": "Moral Clarity and Refusing to be Silenced",
+      "text": "Maitreyī models values-resilience: the courage to reject golden handcuffs when they stifle the soul's true hunger. Gārgī models voice-resilience: the refusal to succumb to intimidation in spaces of patriarchal authority. Both demonstrate that resilience is not merely passive endurance of hardship, but the active, articulate assertion of truth in the face of conventional compromise."
+    },
+    {
+      "type": "modern_parallel",
+      "title": "Epistemic Agency and Dissent",
+      "text": "Mirrors contemporary psychological research on epistemic agency, moral courage, and psychological empowerment in marginalized voices (Freire, 1970; hooks, 1989). Cultivating a sense of one's own intellectual and spiritual authority fosters robust resilience against gaslighting, social silencing, and institutional coercion."
+    },
+    {
+      "type": "reflect",
+      "prompt": "Where in your life are you settling for material convenience or social approval at the expense of your deeper existential values? What would it feel like to ask Maitreyī's question of your current compromises?"
+    }
+  ],
+  "sources": [
+    "Bṛhadāraṇyaka Upaniṣad 2.4, 3.6, 3.8, 4.5",
+    "Śaṅkara's Bhāṣya on Bṛhadāraṇyaka Upaniṣad",
+    "Stephanie Jamison & Joel Brereton, The Rigveda (2014)",
+    "Signe Cohen, The Upaniṣads: A Complete Guide (Routledge, 2018)"
+  ],
+  "wordCount": 820
+}
